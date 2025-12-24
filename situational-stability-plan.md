@@ -92,6 +92,20 @@ If you ever feel shame creeping in, this is the section to reread.
 
 ---
 
+## Standing Internal Truth
+
+Even when things are calm:
+- The underlying dynamics have not changed
+- My anger is not a problem — it is protective memory
+- I do not need to re-litigate or resolve it
+- I only need to remember it exists
+
+Calm is tactical.  
+Distance is intentional.  
+Connection is conditional.
+
+---
+
 ## Exit Conditions
 
 This strategy ends or loosens when:
