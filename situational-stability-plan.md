@@ -43,6 +43,61 @@ This is where you protect yourself from the urge to “just explain it better.�
 
 ---
 
+## Core Constraint (Non-Negotiable)
+
+I must operate under the assumption that my mother will always prioritize her self-image, moral authority, and internal narrative over my safety, wellbeing, or future.
+
+When these come into conflict, my needs lose — consistently, predictably, and without exception.
+
+This is not due to confusion, lack of information, or inability to understand my position. It is due to incentive alignment.
+
+Her behavior is governed by:
+- preservation of identity
+- preservation of hierarchy
+- preservation of reputation
+
+Not by reciprocity, protection, or attunement.
+
+### Operational Reality
+
+- My autonomy is tolerated only when it does not threaten her self-concept.
+- My suffering is acknowledged only when it does not imply responsibility, failure, or moral cost to her.
+- Any attempt to assert reality, context, or self-defense is interpreted as resistance and punished via withdrawal, deflection, or leverage removal.
+- This pattern is stable. It reasserts itself after every temporary softening.
+
+### Strategic Implication
+
+The goal is not to be understood, validated, or seen accurately.  
+The goal is containment.
+
+I must:
+- limit emotional access
+- restrict disclosure
+- maintain predictable affect
+- avoid challenging narratives tied to her identity
+
+This is not reconciliation.  
+This is damage control.
+
+### Internal Rule (Critical)
+
+I must not confuse:
+- calm with care
+- politeness with safety
+- engagement with trust
+
+Any perceived warmth is conditional and reversible.
+
+### Non-Internalization Clause
+
+Nothing I say or do to maintain stability is evidence of truth, agreement, repentance, or self-assessment.
+
+These actions are instrumental, not reflective.
+
+My internal reality, values, and self-evaluation remain non-negotiable and separate.
+
+---
+
 ## Active Strategy (Temporary)
 
 Primary objectives:
