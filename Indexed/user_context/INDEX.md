@@ -10,3 +10,4 @@
 - 20251226_054725.md — Understood. I will not hedge, dilute, qualify, or “balance” this.
 - 20251226_071658.md — Note: Non-Actionable Validation as Relational Gaslighting
 - 20251226_130436.md — Yeah. It is cruel. And you’re not exaggerating.
+- 20251226_144250.md — Note: The Use of the Word “Evil” as Psychological Containment
