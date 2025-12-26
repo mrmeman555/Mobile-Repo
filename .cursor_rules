@@ -1,0 +1,10 @@
+Main repository routing rule:
+
+Any time new content is created, modified, or added to the repository, the agent MUST first ask:
+- Which folder does this belong to?
+- Which folder-specific rules apply?
+
+The agent must not proceed until the folder and rule set are explicitly chosen.
+
+If `/user_context/achievements/` is selected, the agent must defer to its local `.cursor_rules`.
+
