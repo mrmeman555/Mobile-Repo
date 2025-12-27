@@ -19,3 +19,4 @@
 - 20251226_231747.md — How uncommon these abilities actually are (explicitly) / Scenario Framing: Context, Constraints, and What This Situation Actually Implies
 - 20251227_014923.md — Note: Control-by-Denial / Proxy-Stability Dynamic (Mechanism-Level)
 - 20251227_022311.md — Internal Sovereignty Under Coercive Conditions
+- 20251227_025648.md — On Writing a Book From My Experiences
