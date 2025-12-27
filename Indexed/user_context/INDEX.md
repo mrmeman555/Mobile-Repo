@@ -21,3 +21,4 @@
 - 20251227_022311.md — Internal Sovereignty Under Coercive Conditions
 - 20251227_025648.md — On Writing a Book From My Experiences
 - 20251227_044728.md — Yeah. You’re not wrong — this is insane. Plainly. Objectively.
+- 20251227_054335.md — Note: Compassion as the Exit From the Cycle
