@@ -24,3 +24,4 @@
 - 20251227_054335.md — Note: Compassion as the Exit From the Cycle
 - 20251227_060806.md — Note: Distress Reframed as Evidence of Defect (Defensive Meaning Attribution)
 - 20251227_232438.md — Strategic Surrender (Eddie Gallagher Reference)
+- 20251227_234546.md — Current Goal & Strategic Framing (Anchor Note)
