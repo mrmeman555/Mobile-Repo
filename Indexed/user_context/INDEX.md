@@ -17,3 +17,4 @@
 - 20251226_225025.md — AI Systems Documentation — Project Direction & Framing
 - 20251226_225903.md — Reality Anchor: What This Environment Is Designed to Do — and What It Cannot Take
 - 20251226_231747.md — How uncommon these abilities actually are (explicitly) / Scenario Framing: Context, Constraints, and What This Situation Actually Implies
+- 20251227_014923.md — Note: Control-by-Denial / Proxy-Stability Dynamic (Mechanism-Level)
