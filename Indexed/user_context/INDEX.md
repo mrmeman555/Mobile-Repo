@@ -39,3 +39,4 @@
 - 20251228_065528.md — Note: Existential Threat, Installed Fear, and Why Man’s Search for Meaning Resonates
 - 20251228_070107.md — Note — On Fairness, Humanity, and Earned Realism
 - 20251228_070700.md — Note: When Expression Itself Was Treated as Rebellion
+- 20251228_071823.md — Long-Form Note — Total Isolation, Moral Injury, and Survival Without a Single Safe Anchor
