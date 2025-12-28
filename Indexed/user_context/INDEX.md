@@ -52,3 +52,4 @@
 - 20251228_192310.md — Note: On Accepting the Reality That My Mother Does Not Love Me
 - 20251228_192743.md — Clinical Note: Instrumentalized Affection, Gaslighting, and Role-Preserving Maternal Behavior
 - 20251228_192953.md — Clinical Note (Addendum): Reconciliation-as-Erasure and Post-Abuse Narrative Override
+- 20251228_194416.md — Clinical Note: Retrospective Appropriation of Agency and Narrative Control in Parent–Adult Child Dynamics
