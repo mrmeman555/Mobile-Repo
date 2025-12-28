@@ -53,3 +53,4 @@
 - 20251228_192743.md — Clinical Note: Instrumentalized Affection, Gaslighting, and Role-Preserving Maternal Behavior
 - 20251228_192953.md — Clinical Note (Addendum): Reconciliation-as-Erasure and Post-Abuse Narrative Override
 - 20251228_194416.md — Clinical Note: Retrospective Appropriation of Agency and Narrative Control in Parent–Adult Child Dynamics
+- 20251228_195722.md — Clinical Note: “I Love You” as a Compliance Check in Coercive Family Systems
