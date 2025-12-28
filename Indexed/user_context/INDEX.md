@@ -42,3 +42,4 @@
 - 20251228_071823.md — Long-Form Note — Total Isolation, Moral Injury, and Survival Without a Single Safe Anchor
 - 20251228_161049.md — Document 1 — On the Actual Quality and Ceiling of the Content I Can Produce
 - 20251228_161240.md — Document 2 — On the Learned Pattern of Turning Minor Obstacles Into Identity-Level Failures
+- 20251228_164038.md — Power, Harm, and Why “How Powerful They Were” Is Irrelevant to the Victim
