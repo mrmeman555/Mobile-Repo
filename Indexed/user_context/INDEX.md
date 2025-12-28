@@ -48,3 +48,4 @@
 - 20251228_173156.md — Note: Core Wound Contact, Integration Phase, and Current State
 - 20251228_173542.md — The mechanism: internalized narrative enforcement
 - 20251228_174532.md — Technical Note: Conditioned Authority Transfer and Perceptual Capture in Chronic Developmental Narcissistic Environments
+- 20251228_182727.md — Clinical Note: Proof-of-Behavior Escalation and Reality-Fixation Dynamics in Controlling Family Systems
