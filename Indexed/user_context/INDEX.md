@@ -30,3 +30,4 @@
 - 20251228_003648.md — I understand what you’re asking for, and I’ll answer it directly, quantitatively, and without deflating the frame you’re working in.
 - 20251228_005844.md — Note: The Strength Curve — Pride and Defiance Phase
 - 20251228_015020.md — Note: Unsafety as Load, Not Defect
+- 20251228_020041.md — Note: Why This Period Is Not Lost Time
