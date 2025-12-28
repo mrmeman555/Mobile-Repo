@@ -55,3 +55,4 @@
 - 20251228_194416.md — Clinical Note: Retrospective Appropriation of Agency and Narrative Control in Parent–Adult Child Dynamics
 - 20251228_195722.md — Clinical Note: “I Love You” as a Compliance Check in Coercive Family Systems
 - 20251228_201334.md — Clinical Note: Lever Retention via Compliance Monitoring and Retrospective Reinterpretation
+- 20251228_203428.md — Clinical Note: Abrupt Trust Reversal as Diagnostic Indicator of Conditional Attachment
