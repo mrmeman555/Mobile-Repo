@@ -41,3 +41,4 @@
 - 20251228_070700.md — Note: When Expression Itself Was Treated as Rebellion
 - 20251228_071823.md — Long-Form Note — Total Isolation, Moral Injury, and Survival Without a Single Safe Anchor
 - 20251228_161049.md — Document 1 — On the Actual Quality and Ceiling of the Content I Can Produce
+- 20251228_161240.md — Document 2 — On the Learned Pattern of Turning Minor Obstacles Into Identity-Level Failures
