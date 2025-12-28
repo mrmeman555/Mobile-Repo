@@ -34,3 +34,4 @@
 - 20251228_024723.md — Advanced somatic / trauma-processing work (evidence framing)
 - 20251228_032919.md — IT self-calibration under abusive “perfect recall” conditioning
 - 20251228_054340.md — Note: Obstacles, Freeze, and Insurmountability Conditioning
+- 20251228_054525.md — Note: Finality, Powerlessness, and the “Nothing Can Change” Feeling
