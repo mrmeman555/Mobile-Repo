@@ -35,3 +35,4 @@
 - 20251228_032919.md — IT self-calibration under abusive “perfect recall” conditioning
 - 20251228_054340.md — Note: Obstacles, Freeze, and Insurmountability Conditioning
 - 20251228_054525.md — Note: Finality, Powerlessness, and the “Nothing Can Change” Feeling
+- 20251228_055609.md — Moral inference under sustained harm (grounded, not action-oriented)
