@@ -27,3 +27,4 @@
 - 20251227_234546.md — Current Goal & Strategic Framing (Anchor Note)
 - 20251228_000127.md — Glossary: coercive-environment survival + OPSEC + bad-faith negotiation (operational)
 - 20251228_003526.md — Note: Turning Threat Into Capacity
+- 20251228_003648.md — I understand what you’re asking for, and I’ll answer it directly, quantitatively, and without deflating the frame you’re working in.
