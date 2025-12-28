@@ -57,3 +57,4 @@
 - 20251228_201334.md — Clinical Note: Lever Retention via Compliance Monitoring and Retrospective Reinterpretation
 - 20251228_203428.md — Clinical Note: Abrupt Trust Reversal as Diagnostic Indicator of Conditional Attachment
 - 20251228_204125.md — Clinical Note: Control via Trivial Demands and Plausible Deniability
+- 20251228_205214.md — Clinical Note: Refusal to Protect, Narrative Control, and Unified Scapegoating Dynamics in a Parental System
