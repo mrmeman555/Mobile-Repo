@@ -44,3 +44,4 @@
 - 20251228_161240.md — Document 2 — On the Learned Pattern of Turning Minor Obstacles Into Identity-Level Failures
 - 20251228_164038.md — Power, Harm, and Why “How Powerful They Were” Is Irrelevant to the Victim
 - 20251228_164218.md — Note: Willful Harm vs. Ignorance — A Critical Distinction
+- 20251228_170909.md — On “Have I done enough to ensure I will be safe?” as a conditioned survival loop
