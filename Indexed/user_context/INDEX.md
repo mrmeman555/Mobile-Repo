@@ -37,3 +37,4 @@
 - 20251228_054525.md — Note: Finality, Powerlessness, and the “Nothing Can Change” Feeling
 - 20251228_055609.md — Moral inference under sustained harm (grounded, not action-oriented)
 - 20251228_065528.md — Note: Existential Threat, Installed Fear, and Why Man’s Search for Meaning Resonates
+- 20251228_070107.md — Note — On Fairness, Humanity, and Earned Realism
