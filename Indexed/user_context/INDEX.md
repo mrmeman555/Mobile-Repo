@@ -50,3 +50,4 @@
 - 20251228_174532.md — Technical Note: Conditioned Authority Transfer and Perceptual Capture in Chronic Developmental Narcissistic Environments
 - 20251228_182727.md — Clinical Note: Proof-of-Behavior Escalation and Reality-Fixation Dynamics in Controlling Family Systems
 - 20251228_192310.md — Note: On Accepting the Reality That My Mother Does Not Love Me
+- 20251228_192743.md — Clinical Note: Instrumentalized Affection, Gaslighting, and Role-Preserving Maternal Behavior
