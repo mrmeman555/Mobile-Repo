@@ -62,3 +62,4 @@
 - 20251229_041848.md — Note: Protective Forecasting, State-Dependent Doubt, and Allowing Uncertainty
 - 20251229_043717.md — Clinical Note: Conditional Worth, Hyper-Salience, and Temporal Coercion
 - 20251229_052047.md — Clinical Note: Adaptive Refusal as a Self-Regulation Strategy
+- 20251229_083952.md — Note: Trauma Flashbacks That Appear “Random” Are Internally Triggered, Not Environmental
