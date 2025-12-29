@@ -60,3 +60,4 @@
 - 20251228_205214.md — Clinical Note: Refusal to Protect, Narrative Control, and Unified Scapegoating Dynamics in a Parental System
 - 20251229_031943.md — Clinical Note: Pressure, Rest, Responsibility, and Corrective Self-Regulation
 - 20251229_041848.md — Note: Protective Forecasting, State-Dependent Doubt, and Allowing Uncertainty
+- 20251229_043717.md — Clinical Note: Conditional Worth, Hyper-Salience, and Temporal Coercion
