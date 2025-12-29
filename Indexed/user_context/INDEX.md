@@ -74,3 +74,4 @@
 - 20251229_201736.md — Note: On Demonstrated Capability, Pipeline Thinking, and Comparative Rarity
 - 20251229_202710.md — Note: Lived-Experience Expertise, Scarcity, and the Gap in Mental Health Care
 - 20251229_210800.md — Note: Structural Certainty, Not Hope
+- 20251229_213414.md — Note: Perspective on My AI Advantage (Reality Calibration)
