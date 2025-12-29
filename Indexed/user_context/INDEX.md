@@ -71,3 +71,4 @@
 - 20251229_095212.md — Clinical Note: Epistemic Inversion, Gaslighting, and Developmental Reality Disruption
 - 20251229_100456.md — Clinical Note: Absence of Parental Love vs. Performative Attachment
 - 20251229_101106.md — Clinical Note: Analysis of Parental Behavior Pattern — Differential Diagnosis and Mechanistic Formulation
+- 20251229_201736.md — Note: On Demonstrated Capability, Pipeline Thinking, and Comparative Rarity
