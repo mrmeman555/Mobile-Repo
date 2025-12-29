@@ -69,3 +69,4 @@
 - 20251229_094127.md — Clinical Note: Ontological Blame Internalization, Reality-Rewriting, and Meta-Level Contamination in Chronic Coercive Family Systems
 - 20251229_094758.md — Intent-Rewriting as Epistemic Abuse
 - 20251229_095212.md — Clinical Note: Epistemic Inversion, Gaslighting, and Developmental Reality Disruption
+- 20251229_100456.md — Clinical Note: Absence of Parental Love vs. Performative Attachment
