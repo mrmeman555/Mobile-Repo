@@ -70,3 +70,4 @@
 - 20251229_094758.md — Intent-Rewriting as Epistemic Abuse
 - 20251229_095212.md — Clinical Note: Epistemic Inversion, Gaslighting, and Developmental Reality Disruption
 - 20251229_100456.md — Clinical Note: Absence of Parental Love vs. Performative Attachment
+- 20251229_101106.md — Clinical Note: Analysis of Parental Behavior Pattern — Differential Diagnosis and Mechanistic Formulation
