@@ -64,3 +64,4 @@
 - 20251229_052047.md — Clinical Note: Adaptive Refusal as a Self-Regulation Strategy
 - 20251229_083952.md — Note: Trauma Flashbacks That Appear “Random” Are Internally Triggered, Not Environmental
 - 20251229_091537.md — Clinical Note: Power-Imposed Reality and Conditioned Inevitability
+- 20251229_091804.md — Clinical Note: Sudden “Wrongness” States and Imposed Negative Meaning
