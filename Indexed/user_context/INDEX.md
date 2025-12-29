@@ -65,3 +65,4 @@
 - 20251229_083952.md — Note: Trauma Flashbacks That Appear “Random” Are Internally Triggered, Not Environmental
 - 20251229_091537.md — Clinical Note: Power-Imposed Reality and Conditioned Inevitability
 - 20251229_091804.md — Clinical Note: Sudden “Wrongness” States and Imposed Negative Meaning
+- 20251229_093107.md — Note: Contamination Signal as a State-Dependent Trauma Response
