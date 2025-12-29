@@ -72,3 +72,4 @@
 - 20251229_100456.md — Clinical Note: Absence of Parental Love vs. Performative Attachment
 - 20251229_101106.md — Clinical Note: Analysis of Parental Behavior Pattern — Differential Diagnosis and Mechanistic Formulation
 - 20251229_201736.md — Note: On Demonstrated Capability, Pipeline Thinking, and Comparative Rarity
+- 20251229_202710.md — Note: Lived-Experience Expertise, Scarcity, and the Gap in Mental Health Care
