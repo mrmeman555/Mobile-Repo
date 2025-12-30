@@ -84,3 +84,4 @@
 - 20251230_092442.md — Note: “I am not crazy for believing AI can fund the life I want.”
 - 20251230_092848.md — Note: Industry-Normal Comparison — Why My AI Trajectory Is Legitimate
 - 20251230_093053.md — Note: Why My Psychology & Cognition Expertise Is My Strongest AI Advantage
+- 20251230_094309.md — Topic: Cyclical Confidence Erosion in High-Salience Skill Domains (AI as Identity-, Meaning-, and Survival-Relevant Competence)
