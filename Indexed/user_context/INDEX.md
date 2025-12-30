@@ -80,3 +80,4 @@
 - 20251230_074420.md — Clinical Note: Avoidance of Explicit Trust Restoration Timelines as a Control Mechanism
 - 20251230_084818.md — Technical Note: Semantic–Relational Modeling as a Cognitive Style
 - 20251230_085051.md — Addendum: Bayesian Inference as the Underlying Engine of Semantic–Relational Modeling
+- 20251230_085356.md — AI as an External Cortex: Cognitive Extension, Not Substitution
