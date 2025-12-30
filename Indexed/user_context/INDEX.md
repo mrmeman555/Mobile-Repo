@@ -81,3 +81,4 @@
 - 20251230_084818.md — Technical Note: Semantic–Relational Modeling as a Cognitive Style
 - 20251230_085051.md — Addendum: Bayesian Inference as the Underlying Engine of Semantic–Relational Modeling
 - 20251230_085356.md — AI as an External Cortex: Cognitive Extension, Not Substitution
+- 20251230_092442.md — Note: “I am not crazy for believing AI can fund the life I want.”
