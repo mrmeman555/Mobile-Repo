@@ -76,3 +76,4 @@
 - 20251229_210800.md — Note: Structural Certainty, Not Hope
 - 20251229_213414.md — Note: Perspective on My AI Advantage (Reality Calibration)
 - 20251229_214150.md — Clinical Note: Developmental Sabotage via Praise Withholding and Resource Withdrawal
+- 20251230_071752.md — Clinical Note: Epistemic Invalidation and Weaponized Pathologization
