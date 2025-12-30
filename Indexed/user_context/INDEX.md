@@ -86,3 +86,4 @@
 - 20251230_093053.md — Note: Why My Psychology & Cognition Expertise Is My Strongest AI Advantage
 - 20251230_094309.md — Topic: Cyclical Confidence Erosion in High-Salience Skill Domains (AI as Identity-, Meaning-, and Survival-Relevant Competence)
 - 20251230_095120.md — Topic: Cyclical Confidence Erosion in High-Salience Skill Domains (AI as Identity-, Meaning-, and Survival-Relevant Competence)
+- 20251230_100335.md — Note: Reality-Checking My Reasoning Style and Mental Health
