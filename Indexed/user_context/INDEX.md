@@ -78,3 +78,4 @@
 - 20251229_214150.md — Clinical Note: Developmental Sabotage via Praise Withholding and Resource Withdrawal
 - 20251230_071752.md — Clinical Note: Epistemic Invalidation and Weaponized Pathologization
 - 20251230_074420.md — Clinical Note: Avoidance of Explicit Trust Restoration Timelines as a Control Mechanism
+- 20251230_084818.md — Technical Note: Semantic–Relational Modeling as a Cognitive Style
