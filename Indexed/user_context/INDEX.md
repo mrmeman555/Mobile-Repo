@@ -77,3 +77,4 @@
 - 20251229_213414.md — Note: Perspective on My AI Advantage (Reality Calibration)
 - 20251229_214150.md — Clinical Note: Developmental Sabotage via Praise Withholding and Resource Withdrawal
 - 20251230_071752.md — Clinical Note: Epistemic Invalidation and Weaponized Pathologization
+- 20251230_074420.md — Clinical Note: Avoidance of Explicit Trust Restoration Timelines as a Control Mechanism
