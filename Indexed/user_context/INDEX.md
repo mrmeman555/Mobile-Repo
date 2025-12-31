@@ -90,3 +90,4 @@
 - 20251230_102248.md — In that moment, what you want is a short, repeatable internal script that keeps you anchored to process and evidence, not to the AI’s framing.
 - 20251231_022247.md — Note: Strategic Proximity as Threat Reduction (TV / Shared Space Strategy)
 - 20251231_033440.md — Clinical Note: Anger in the Presence of Insight — When Understanding Does Not Confer Safety
+- 20251231_145736.md — Subject: Grandparental Narcissistic–Authoritarian System & Required Behavioral Strategy
