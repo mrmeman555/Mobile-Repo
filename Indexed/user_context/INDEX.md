@@ -91,3 +91,4 @@
 - 20251231_022247.md — Note: Strategic Proximity as Threat Reduction (TV / Shared Space Strategy)
 - 20251231_033440.md — Clinical Note: Anger in the Presence of Insight — When Understanding Does Not Confer Safety
 - 20251231_145736.md — Subject: Grandparental Narcissistic–Authoritarian System & Required Behavioral Strategy
+- 20251231_174616.md — Subject: Narrative Retraction and Post-Compliance Reality Minimization
