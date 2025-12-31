@@ -95,3 +95,4 @@
 - 20251231_212553.md — Subject: Active Corrective Memory Reprocessing via Context Restoration and Self-Allegiance
 - 20251231_214401.md — Clinical Note: Memory Reconsolidation via Bilateral Activation and Contextual Reappraisal
 - 20251231_224149.md — Root Mechanism: Conditioned Threat-Based Uncertainty & Binary Confidence Switching
+- 20251231_232202.md — Title: Transition from Shame-Based Control to Context-Based Responsibility
