@@ -88,3 +88,4 @@
 - 20251230_095120.md — Topic: Cyclical Confidence Erosion in High-Salience Skill Domains (AI as Identity-, Meaning-, and Survival-Relevant Competence)
 - 20251230_100335.md — Note: Reality-Checking My Reasoning Style and Mental Health
 - 20251230_102248.md — In that moment, what you want is a short, repeatable internal script that keeps you anchored to process and evidence, not to the AI’s framing.
+- 20251231_022247.md — Note: Strategic Proximity as Threat Reduction (TV / Shared Space Strategy)
