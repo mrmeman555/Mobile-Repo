@@ -98,3 +98,4 @@
 - 20251231_232202.md — Title: Transition from Shame-Based Control to Context-Based Responsibility
 - 20251231_232441.md — Clinical Note: Embracing Self-Beliefs During Values-Based Struggle
 - 20251231_234516.md — What you are doing requires praise to complete the circuit
+- 20260101_001737.md — Note: Contextualizing My Efforts Accurately
