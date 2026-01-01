@@ -105,3 +105,4 @@
 - 20260101_045103.md — Clinical Note: Attentional Capture–Based Agency Contamination
 - 20260101_050930.md — Clinical Note: Multi-Stream Awareness Using Loving-Kindness and Eye-Gaze
 - 20260101_064426.md — Clinical Note: Emergence of Agency–Continuity and Future-Linked Action
+- 20260101_072932.md — Clinical Note: Emergence of Felt Future-Agency and Retrospective Reframing of Effort
