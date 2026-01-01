@@ -108,3 +108,4 @@
 - 20260101_072932.md — Clinical Note: Emergence of Felt Future-Agency and Retrospective Reframing of Effort
 - 20260101_075432.md — Preconditions Leading to Future-Agency Integration Event
 - 20260101_080459.md — Clinical / Technical Note — Belief Practice as a Core Mechanism (Identity Stabilization Under Threat)
+- 20260101_081800.md — Clinical / Technical Note — Future-Outcome Ownership via Identity-Based Belief (Sexual Domain Trigger)
