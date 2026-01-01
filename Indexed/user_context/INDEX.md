@@ -107,3 +107,4 @@
 - 20260101_064426.md — Clinical Note: Emergence of Agency–Continuity and Future-Linked Action
 - 20260101_072932.md — Clinical Note: Emergence of Felt Future-Agency and Retrospective Reframing of Effort
 - 20260101_075432.md — Preconditions Leading to Future-Agency Integration Event
+- 20260101_080459.md — Clinical / Technical Note — Belief Practice as a Core Mechanism (Identity Stabilization Under Threat)
