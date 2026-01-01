@@ -99,3 +99,4 @@
 - 20251231_232441.md — Clinical Note: Embracing Self-Beliefs During Values-Based Struggle
 - 20251231_234516.md — What you are doing requires praise to complete the circuit
 - 20260101_001737.md — Note: Contextualizing My Efforts Accurately
+- 20260101_003129.md — Active identity enforcement under threat.
