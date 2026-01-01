@@ -102,3 +102,4 @@
 - 20260101_003129.md — Active identity enforcement under threat.
 - 20260101_003910.md — Stabilization through accurate self-appraisal, not confidence as denial.
 - 20260101_012140.md — Total coercive capture of agency — and it explains everything about why this work now feels both unfamiliar and revolutionary.
+- 20260101_045103.md — Clinical Note: Attentional Capture–Based Agency Contamination
