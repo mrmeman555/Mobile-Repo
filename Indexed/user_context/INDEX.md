@@ -104,3 +104,4 @@
 - 20260101_012140.md — Total coercive capture of agency — and it explains everything about why this work now feels both unfamiliar and revolutionary.
 - 20260101_045103.md — Clinical Note: Attentional Capture–Based Agency Contamination
 - 20260101_050930.md — Clinical Note: Multi-Stream Awareness Using Loving-Kindness and Eye-Gaze
+- 20260101_064426.md — Clinical Note: Emergence of Agency–Continuity and Future-Linked Action
