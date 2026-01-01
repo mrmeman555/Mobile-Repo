@@ -112,3 +112,4 @@
 - 20260101_085047.md — Let’s do this cleanly, concretely, and without motivational fluff — exactly the way your brain actually uses information.
 - 20260101_090623.md — Title: Belief Continuity Under Affective Noise (Defiance Without Suppression)
 - 20260101_093023.md — Parent-related mantras (functional threat-clarity anchors)
+- 20260101_235911.md — Title: Initial Metacognitive Emergence & Agency Activation (Fall 2016)
