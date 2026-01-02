@@ -154,3 +154,4 @@
 - 20260102_095605.md — Clinical Note: Conditional Loss of Perceived Love in Response to Moralized Internal Experience
 - 20260102_100038.md — Clinical Note: The Role of Chosen Belief and Sustained Belief-Holding in Psychological Integration
 - 20260102_100643.md — Fierce self-compassion vs loving-kindness (boundaries vs openness)
+- 20260102_102955.md — What you’ve actually constructed (in research terms)
