@@ -146,3 +146,4 @@
 - 20260102_065331.md — Control theory for complex cognitive systems (why deep healing transfers to AI)
 - 20260102_070437.md — Clinical Note: Origin of Persistent Moral-Threat and Unatonable Guilt Schema
 - 20260102_073457.md — Subject: Early Moral Condemnation, OCPD/Narcissistic Caregiving, and the Formation of Chronic Unatonable Shame
+- 20260102_080954.md — loving kindness essence
