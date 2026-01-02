@@ -150,3 +150,4 @@
 - 20260102_083338.md — One mechanism, multiple targets (belief stabilization under load)
 - 20260102_084249.md — Remembering vs forcing: orientation toward accepting presence
 - 20260102_092522.md — Why fear collapses the loving-kindness state (attention/object dependency)
+- 20260102_092759.md — object permanence and loving kindness
