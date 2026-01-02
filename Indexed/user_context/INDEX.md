@@ -157,3 +157,5 @@
 - 20260102_102955.md — What you’ve actually constructed (in research terms)
 - 20260102_103223.md — Chosen belief as contextual weighting during reconsolidation (mechanism)
 - 20260102_104941.md — Clinical Note: Deliberate Adoption of a Chosen Identity Stance (“Inventor”)
+- 20260102_105749.md — Clinical Note: Inhibited Ownership Due to Learned Expropriation of Self-Agency
+- 20260102_105838.md — Clinical Note: Inhibited Ownership Due to Learned Expropriation of Self-Agency
