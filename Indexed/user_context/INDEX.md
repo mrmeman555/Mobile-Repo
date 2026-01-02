@@ -114,3 +114,4 @@
 - 20260101_093023.md — Parent-related mantras (functional threat-clarity anchors)
 - 20260101_235911.md — Title: Initial Metacognitive Emergence & Agency Activation (Fall 2016)
 - 20260102_002153.md — State-Dependent Agency, Pre-Completion Confidence, and Cognitive Performance Enhancement
+- 20260102_010137.md — Subject: Transient Visual Disturbance During Deep Integrative Trauma Processing
