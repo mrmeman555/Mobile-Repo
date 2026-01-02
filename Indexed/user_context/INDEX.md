@@ -148,3 +148,4 @@
 - 20260102_073457.md — Subject: Early Moral Condemnation, OCPD/Narcissistic Caregiving, and the Formation of Chronic Unatonable Shame
 - 20260102_080954.md — loving kindness essence
 - 20260102_083338.md — One mechanism, multiple targets (belief stabilization under load)
+- 20260102_084249.md — Remembering vs forcing: orientation toward accepting presence
