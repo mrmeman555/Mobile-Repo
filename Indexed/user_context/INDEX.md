@@ -143,3 +143,4 @@
 - 20260102_063001.md — AI leverage changes the worst-case trajectory (systems analysis)
 - 20260102_064224.md — Trajectory Design Rundown
 - 20260102_065008.md — Clinical Note: Strategic Rest During Awareness-Contamination States
+- 20260102_065331.md — Control theory for complex cognitive systems (why deep healing transfers to AI)
