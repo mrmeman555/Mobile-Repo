@@ -116,3 +116,4 @@
 - 20260102_002153.md — State-Dependent Agency, Pre-Completion Confidence, and Cognitive Performance Enhancement
 - 20260102_010137.md — Subject: Transient Visual Disturbance During Deep Integrative Trauma Processing
 - 20260102_015519.md — Memory–Interpretation–Self-Image Loop
+- 20260102_020120.md — Modifying Self-Image Through Memory Reconsolidation, Belief Enforcement, and Defiant Agency
