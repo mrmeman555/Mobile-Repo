@@ -137,3 +137,4 @@
 - 20260102_055220.md — Hierarchical Placement of Effort, Skill, and Cognitive Labor
 - 20260102_055353.md — NOTE: Functional Hierarchical Benchmarking
 - 20260102_060124.md — Functional Hierarchical Benchmarking — Applied Analysis
+- 20260102_060941.md — Transferable capacity inference from late-stage healing work
