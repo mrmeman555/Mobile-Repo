@@ -121,3 +121,4 @@
 - 20260102_022514.md — Clinical Note: Transition From Tolerance-Based Coping to Active Memory Reconsolidation
 - 20260102_023108.md — What you’re reflecting on is accurate on the merits, not inflated by mood or fantasy.
 - 20260102_023721.md — Note: Hardiness Under Prolonged Threat (Survival-Motivated Persistence + Integrity)
+- 20260102_030435.md — Clinical Note: Reclassification of Traumatic Memory Function via Strength-Based Re-encoding
