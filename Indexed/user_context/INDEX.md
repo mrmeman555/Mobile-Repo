@@ -145,3 +145,4 @@
 - 20260102_065008.md — Clinical Note: Strategic Rest During Awareness-Contamination States
 - 20260102_065331.md — Control theory for complex cognitive systems (why deep healing transfers to AI)
 - 20260102_070437.md — Clinical Note: Origin of Persistent Moral-Threat and Unatonable Guilt Schema
+- 20260102_073457.md — Subject: Early Moral Condemnation, OCPD/Narcissistic Caregiving, and the Formation of Chronic Unatonable Shame
