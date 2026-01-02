@@ -153,3 +153,4 @@
 - 20260102_092759.md — object permanence and loving kindness
 - 20260102_095605.md — Clinical Note: Conditional Loss of Perceived Love in Response to Moralized Internal Experience
 - 20260102_100038.md — Clinical Note: The Role of Chosen Belief and Sustained Belief-Holding in Psychological Integration
+- 20260102_100643.md — Fierce self-compassion vs loving-kindness (boundaries vs openness)
