@@ -128,3 +128,4 @@
 - 20260102_035352.md — Clinical Note: Identification and Integration of Fierce Self-Compassion as a Missing Regulatory Capacity
 - 20260102_041122.md — What You’re Noticing (Precisely Defined)
 - 20260102_041514.md — Residual Action Imperative Under Threat Conditioning (“something is wrong when I’m doing nothing”)
+- 20260102_042308.md — Why intention-rewriting creates permanent moral surveillance
