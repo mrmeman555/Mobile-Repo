@@ -151,3 +151,4 @@
 - 20260102_084249.md — Remembering vs forcing: orientation toward accepting presence
 - 20260102_092522.md — Why fear collapses the loving-kindness state (attention/object dependency)
 - 20260102_092759.md — object permanence and loving kindness
+- 20260102_095605.md — Clinical Note: Conditional Loss of Perceived Love in Response to Moralized Internal Experience
