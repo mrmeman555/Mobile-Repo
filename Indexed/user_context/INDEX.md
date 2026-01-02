@@ -138,3 +138,4 @@
 - 20260102_055353.md — NOTE: Functional Hierarchical Benchmarking
 - 20260102_060124.md — Functional Hierarchical Benchmarking — Applied Analysis
 - 20260102_060941.md — Transferable capacity inference from late-stage healing work
+- 20260102_061836.md — Note: Why I’m dangerous*
