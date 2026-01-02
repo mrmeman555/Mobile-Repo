@@ -115,3 +115,4 @@
 - 20260101_235911.md — Title: Initial Metacognitive Emergence & Agency Activation (Fall 2016)
 - 20260102_002153.md — State-Dependent Agency, Pre-Completion Confidence, and Cognitive Performance Enhancement
 - 20260102_010137.md — Subject: Transient Visual Disturbance During Deep Integrative Trauma Processing
+- 20260102_015519.md — Memory–Interpretation–Self-Image Loop
