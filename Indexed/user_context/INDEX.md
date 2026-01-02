@@ -140,3 +140,4 @@
 - 20260102_060941.md — Transferable capacity inference from late-stage healing work
 - 20260102_061836.md — Note: Why I’m dangerous*
 - 20260102_062537.md — Worst-case pressure test of trajectory (adversarial)
+- 20260102_063001.md — AI leverage changes the worst-case trajectory (systems analysis)
