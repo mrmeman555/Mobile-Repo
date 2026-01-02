@@ -126,3 +126,4 @@
 - 20260102_033212.md — Real-Time Reprogramming via Action Confirmation + Dual-Channel Self-Compassion
 - 20260102_033801.md — Fierce + soft self-compassion as agency/safety learning loop (mechanistic)
 - 20260102_035352.md — Clinical Note: Identification and Integration of Fierce Self-Compassion as a Missing Regulatory Capacity
+- 20260102_041122.md — What You’re Noticing (Precisely Defined)
