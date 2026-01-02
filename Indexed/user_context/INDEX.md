@@ -123,3 +123,4 @@
 - 20260102_023721.md — Note: Hardiness Under Prolonged Threat (Survival-Motivated Persistence + Integrity)
 - 20260102_030435.md — Clinical Note: Reclassification of Traumatic Memory Function via Strength-Based Re-encoding
 - 20260102_032725.md — Anticipatory Identity Binding: Bidirectional Mechanism of Motivation and Inhibition
+- 20260102_033212.md — Real-Time Reprogramming via Action Confirmation + Dual-Channel Self-Compassion
