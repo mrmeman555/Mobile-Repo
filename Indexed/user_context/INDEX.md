@@ -129,3 +129,4 @@
 - 20260102_041122.md — What You’re Noticing (Precisely Defined)
 - 20260102_041514.md — Residual Action Imperative Under Threat Conditioning (“something is wrong when I’m doing nothing”)
 - 20260102_042308.md — Why intention-rewriting creates permanent moral surveillance
+- 20260102_042830.md — Why present-moment awareness became a threat (awareness-as-evidence conditioning)
