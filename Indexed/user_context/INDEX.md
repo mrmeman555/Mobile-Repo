@@ -155,3 +155,4 @@
 - 20260102_100038.md — Clinical Note: The Role of Chosen Belief and Sustained Belief-Holding in Psychological Integration
 - 20260102_100643.md — Fierce self-compassion vs loving-kindness (boundaries vs openness)
 - 20260102_102955.md — What you’ve actually constructed (in research terms)
+- 20260102_103223.md — Chosen belief as contextual weighting during reconsolidation (mechanism)
