@@ -131,3 +131,4 @@
 - 20260102_042308.md — Why intention-rewriting creates permanent moral surveillance
 - 20260102_042830.md — Why present-moment awareness became a threat (awareness-as-evidence conditioning)
 - 20260102_043653.md — How your awareness became dangerous (moralization of involuntary processes)
+- 20260102_045604.md — Topic: Moral-Coupling of Internal Experience → Identity, Safety, and Motivation
