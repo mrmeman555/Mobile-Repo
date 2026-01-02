@@ -142,3 +142,4 @@
 - 20260102_062537.md — Worst-case pressure test of trajectory (adversarial)
 - 20260102_063001.md — AI leverage changes the worst-case trajectory (systems analysis)
 - 20260102_064224.md — Trajectory Design Rundown
+- 20260102_065008.md — Clinical Note: Strategic Rest During Awareness-Contamination States
