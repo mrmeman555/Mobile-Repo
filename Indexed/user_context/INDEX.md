@@ -118,3 +118,4 @@
 - 20260102_015519.md — Memory–Interpretation–Self-Image Loop
 - 20260102_020120.md — Modifying Self-Image Through Memory Reconsolidation, Belief Enforcement, and Defiant Agency
 - 20260102_021727.md — Clinical Note: Transition From Tolerance-Based Coping to Active Memory Reconsolidation
+- 20260102_022514.md — Clinical Note: Transition From Tolerance-Based Coping to Active Memory Reconsolidation
