@@ -133,3 +133,4 @@
 - 20260102_043653.md — How your awareness became dangerous (moralization of involuntary processes)
 - 20260102_045604.md — Topic: Moral-Coupling of Internal Experience → Identity, Safety, and Motivation
 - 20260102_051559.md — Clinical Note: Shame-Based Signal Misattribution and De-Ownership of Internal Experience
+- 20260102_053908.md — The Functional Role, Benefits, and Cognitive Mechanics of Social Comparison
