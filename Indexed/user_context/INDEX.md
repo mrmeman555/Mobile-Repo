@@ -156,3 +156,4 @@
 - 20260102_100643.md — Fierce self-compassion vs loving-kindness (boundaries vs openness)
 - 20260102_102955.md — What you’ve actually constructed (in research terms)
 - 20260102_103223.md — Chosen belief as contextual weighting during reconsolidation (mechanism)
+- 20260102_104941.md — Clinical Note: Deliberate Adoption of a Chosen Identity Stance (“Inventor”)
