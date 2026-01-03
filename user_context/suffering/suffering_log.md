@@ -20,3 +20,5 @@ Format (per entry):
 
 20260103_011718 — Lifelong Suffering Ledger — Magnitude Summary — file: 20260103_011718__lifelong-suffering-ledger-magnitude-summary.md
 
+20260103_012728 — Relationship with suffering: endurance → meaning-making → accounting — file: 20260103_012728__relationship-with-suffering-accounting.md
+
