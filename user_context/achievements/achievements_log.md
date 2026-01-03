@@ -20,3 +20,5 @@ Format (per entry):
 
 20260103_015641 — Systems-level trajectory design: converting suffering into leverage and impact — file: 20260103_015641__trajectory-design-making-suffering-worth-it.md
 
+20260103_020400 — IT/cert runway strategy as layer-1 infrastructure — file: 20260103_020400__it-cert-strategy-runway-layered-trajectory.md
+
