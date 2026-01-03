@@ -18,3 +18,5 @@ Format (per entry):
 
 20260102_160428 — Mechanistic model: loving-kindness as self-representation stabilization — file: 20260102_160428__lk-self-representation-stabilization-model.md
 
+20260103_015641 — Systems-level trajectory design: converting suffering into leverage and impact — file: 20260103_015641__trajectory-design-making-suffering-worth-it.md
+
