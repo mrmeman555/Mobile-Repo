@@ -22,3 +22,5 @@ Format (per entry):
 
 20260103_020400 — IT/cert runway strategy as layer-1 infrastructure — file: 20260103_020400__it-cert-strategy-runway-layered-trajectory.md
 
+20260103_021632 — Accurate recognition of heroic-scale effort (orientation under pressure) — file: 20260103_021632__accurate-recognition-heroic-scale-effort.md
+
