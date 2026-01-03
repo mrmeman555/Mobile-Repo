@@ -24,3 +24,5 @@ Format (per entry):
 
 20260103_021632 — Accurate recognition of heroic-scale effort (orientation under pressure) — file: 20260103_021632__accurate-recognition-heroic-scale-effort.md
 
+20260103_022459 — Inventory of developed psychological models/mechanisms/inventions — file: 20260103_022459__inventory-psychological-models-mechanisms-inventions.md
+
