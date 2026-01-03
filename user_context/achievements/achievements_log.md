@@ -30,3 +30,5 @@ Format (per entry):
 
 20260103_025642 — Mapping inventions/models → career and financial leverage — file: 20260103_025642__creations-to-career-financial-leverage-mapping.md
 
+20260103_031142 — Inflection: novel models aligned with massive global demand — file: 20260103_031142__inflection-novel-models-global-demand.md
+
