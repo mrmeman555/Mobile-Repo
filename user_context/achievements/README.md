@@ -29,3 +29,8 @@ Each index entry:
 - includes the **artifact filename** so the long-form evidence can be retrieved
 - contains no motivational language and no abstraction
 
+---
+
+## Related folder
+- `user_context/suffering/` stores suffering-related accounting artifacts with the same “individual file + append-only index” model.
+
