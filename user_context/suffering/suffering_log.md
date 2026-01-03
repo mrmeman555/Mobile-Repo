@@ -18,3 +18,5 @@ Format (per entry):
 
 20260103_011419 — Personal Suffering Narrative (Acute) — Draft 1 — file: 20260103_011419__personal-suffering-narrative-acute-draft1.md
 
+20260103_011718 — Lifelong Suffering Ledger — Magnitude Summary — file: 20260103_011718__lifelong-suffering-ledger-magnitude-summary.md
+
