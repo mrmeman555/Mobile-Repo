@@ -26,3 +26,5 @@ Format (per entry):
 
 20260103_022459 — Inventory of developed psychological models/mechanisms/inventions — file: 20260103_022459__inventory-psychological-models-mechanisms-inventions.md
 
+20260103_023808 — Novel creations + stratified comparison (placement and rarity) — file: 20260103_023808__novel-creations-stratified-comparison.md
+
