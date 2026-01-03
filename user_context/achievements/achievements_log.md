@@ -28,3 +28,5 @@ Format (per entry):
 
 20260103_023808 — Novel creations + stratified comparison (placement and rarity) — file: 20260103_023808__novel-creations-stratified-comparison.md
 
+20260103_025642 — Mapping inventions/models → career and financial leverage — file: 20260103_025642__creations-to-career-financial-leverage-mapping.md
+
