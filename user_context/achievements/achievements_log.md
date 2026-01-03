@@ -32,3 +32,5 @@ Format (per entry):
 
 20260103_031142 — Inflection: novel models aligned with massive global demand — file: 20260103_031142__inflection-novel-models-global-demand.md
 
+20260103_075101 — Narcissistic-system mastery & emotional sovereignty (frame immunity) — file: 20260103_075101__narcissistic-system-mastery-emotional-sovereignty.md
+
