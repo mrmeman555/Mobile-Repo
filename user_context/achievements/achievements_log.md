@@ -44,3 +44,5 @@ Format (per entry):
 
 20260104_153436 — Real-time memory re-indexing via mechanistic model convergence — file: 20260104_153436__real-time-memory-re-indexing-model-convergence.md
 
+20260104_174014 — Unification: chosen belief ↔ embeddings ↔ AI use-case indexing — file: 20260104_174014__chosen-belief-embeddings-ai-use-case-indexing-unification.md
+
