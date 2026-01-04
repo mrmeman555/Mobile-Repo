@@ -48,3 +48,5 @@ Format (per entry):
 
 20260104_181729 — Strategic convergence: AI mastery + self-understanding — file: 20260104_181729__strategic-convergence-ai-mastery-self-understanding.md
 
+20260104_185825 — Consolidation: global embedding shift toward confidence/perspective trust — file: 20260104_185825__global-embedding-shift-confidence-perspective-trust.md
+
