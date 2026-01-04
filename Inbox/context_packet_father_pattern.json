@@ -1,173 +1,27 @@
 {
   "context_packet_father_pattern": [
     {
-      "path": "/user_context/suffering/20260103_011419__personal-suffering-narrative-acute-draft1.md",
-      "title_or_filename": "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-      "date": "2026-01-03 01:14:49 +0000",
-      "snippet": "# Personal Suffering Narrative (Acute) \u2014 Draft 1 ## 1) Marriage / Life-Building \u2192 Coerced Separation \u2192 Narrative Rewriting You built a real, functional life and trajectory with your ex-wife for years. Then you were relentlessly pressured (especially by your father) to leave her. After you did, the entire reality was rewritten: instead of recognizing the years of effort and the coercive pressure, it was reframed as you \u201cfailing,\u201d being morally implicated, and needing to be \u201crescued.\u201d So a long period of competence and stability became retroactively converted into a story of defect and collapse\u2014despite the fact you had been building and sustaining something real. ## 2) 20+ Years of Religious Striving \u2192 Collapse of the Framework For over two decades you strived relentlessly to know God\u2014leading Bible studies, studying continuously, doing everything you could to \u201cget relief\u201d and spiritual sec",
+      "path": "/Inbox/situational-operating-note-family-survival-context.md",
+      "title_or_filename": "situational-operating-note-family-survival-context.md",
+      "date": "2025-12-24 23:39:41 +0000",
+      "snippet": "Core Reality (Non-Negotiable) This environment is not safe, not rational, and not repair-oriented. My father regulates himself through dominance, projection, and narrative control, not dialogue. My mother prioritizes ego stability, spiritual narrative, and hierarchy over my wellbeing.",
       "why_it_matters": [
-        "Directness (D=3): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=2): shows multiple linked steps.",
-        "Leverage relevance (L=3): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=3): within 10 days; scenario tokens present."
+        "D=3: dad/father is referenced alongside scenario dynamics.",
+        "M=2: multiple steps of the composite mechanism appear.",
+        "L=3: Bible/prayer accountability or tech/status leverage cues present.",
+        "R=2: within 16 days; scenario-specific tokens present."
       ],
-      "links_to_others": [
-        "20251231_022247.md",
-        "20251227_014923.md",
-        "20251228_164218.md",
-        "20251226_045848.md",
-        "20251226_222915.md"
-      ],
+      "links_to_others": [],
       "scores": {
         "D": 3,
         "M": 2,
         "L": 3,
-        "R": 3,
-        "total": 11
+        "R": 2,
+        "total": 10
       },
       "confidence": {
         "level": "High",
-        "justification": "High: multiple query-cluster matches with a concrete mechanism window."
-      }
-    },
-    {
-      "path": "/Indexed/user_context/20251231_022247.md",
-      "title_or_filename": "20251231_022247.md",
-      "date": "2025-12-31 02:22:58 +0000",
-      "snippet": "One specific destabilizer has been my father interpreting physical distance as rejection, which triggers rumination, ego injury, and eventual escalation. ## Key Insight Occasional shared, low-engagement activities (e.g., watching TV together) function as signal management, not emotional connection. This behavior is not about closeness, bonding, or authenticity. It is about reducing perceived threat and preventing destabilization.",
-      "why_it_matters": [
-        "Directness (D=3): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=2): shows multiple linked steps.",
-        "Leverage relevance (L=2): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=2): within 10 days; scenario tokens present."
-      ],
-      "links_to_others": [
-        "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-        "20251227_014923.md",
-        "20251226_045848.md"
-      ],
-      "scores": {
-        "D": 3,
-        "M": 2,
-        "L": 2,
-        "R": 2,
-        "total": 9
-      },
-      "confidence": {
-        "level": "Med",
-        "justification": "Med: matches at least one cluster strongly but mechanism/leverage is partial."
-      }
-    },
-    {
-      "path": "/Indexed/user_context/20251227_014923.md",
-      "title_or_filename": "20251227_014923.md",
-      "date": "2025-12-27 01:49:30 +0000",
-      "snippet": "## Note: Control-by-Denial / Proxy-Stability Dynamic (Mechanism-Level) What I am observing is not confusion, forgetfulness, or inconsistency. It is a self-regulating control dynamic. ### Key characteristics - My mother has repeatedly acknowledged that I am doing what I am supposed to do. - Her baseline verbal stance is often: \u201cJust keep doing what you\u2019re doing.\u201d - However, when acknowledgment would require action, protection, or challenging my father, she withdraws or neutralizes.",
-      "why_it_matters": [
-        "Directness (D=3): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=1): partial/implicit mechanism evidence only.",
-        "Leverage relevance (L=3): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=1): within 10 days; limited scenario tokens."
-      ],
-      "links_to_others": [
-        "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-        "20251231_022247.md",
-        "20251228_164218.md",
-        "20251226_045848.md",
-        "20251226_222915.md"
-      ],
-      "scores": {
-        "D": 3,
-        "M": 1,
-        "L": 3,
-        "R": 1,
-        "total": 8
-      },
-      "confidence": {
-        "level": "Med",
-        "justification": "Med: matches at least one cluster strongly but mechanism/leverage is partial."
-      }
-    },
-    {
-      "path": "/Indexed/user_context/20251228_164218.md",
-      "title_or_filename": "20251228_164218.md",
-      "date": "2025-12-28 16:42:27 +0000",
-      "snippet": "It is intentionally clear, grounded, and precise. ## Note: Willful Harm vs. Ignorance \u2014 A Critical Distinction There is an important line between not knowing and knowing but choosing anyway. What has happened with my father crosses that line.",
-      "why_it_matters": [
-        "Directness (D=3): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=1): partial/implicit mechanism evidence only.",
-        "Leverage relevance (L=3): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=1): within 10 days; limited scenario tokens."
-      ],
-      "links_to_others": [
-        "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-        "20251227_014923.md"
-      ],
-      "scores": {
-        "D": 3,
-        "M": 1,
-        "L": 3,
-        "R": 1,
-        "total": 8
-      },
-      "confidence": {
-        "level": "Med",
-        "justification": "Med: matches at least one cluster strongly but mechanism/leverage is partial."
-      }
-    },
-    {
-      "path": "/Indexed/user_context/20251226_045848.md",
-      "title_or_filename": "20251226_045848.md",
-      "date": "2025-12-26 04:58:55 +0000",
-      "snippet": "Note: Why My Mother Appears to Care My mother\u2019s expressions of care are primarily role-based and self-regulatory, not need-based. She acts caring when: It aligns with her self-image as a \u201cgood, compassionate person\u201d It maintains household equilibrium It avoids conflict or emotional discomfort It does not require confronting my father or risking her own stability She withdraws or disengages when: My needs require sustained protection or advocacy Caring would involve discomfort, confrontation, or moral cost A clear choice must be made between my well-being and her emotional safety This indicates that her care is conditional and situational, rooted in duty, identity, and avoidance \u2014 not in prioritizing my internal state or survival when it matters most.",
-      "why_it_matters": [
-        "Directness (D=2): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=1): partial/implicit mechanism evidence only.",
-        "Leverage relevance (L=2): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=1): within 10 days; limited scenario tokens."
-      ],
-      "links_to_others": [
-        "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-        "20251231_022247.md",
-        "20251227_014923.md"
-      ],
-      "scores": {
-        "D": 2,
-        "M": 1,
-        "L": 2,
-        "R": 1,
-        "total": 6
-      },
-      "confidence": {
-        "level": "Low",
-        "justification": "Low: weak match beyond minimal cluster evidence."
-      }
-    },
-    {
-      "path": "/Indexed/user_context/20251226_222915.md",
-      "title_or_filename": "20251226_222915.md",
-      "date": "2025-12-26 22:29:31 +0000",
-      "snippet": "If this were a game: You are playing on nightmare difficulty With no tutorial With hostile NPCs And you are still leveling faster than most players on easy mode That\u2019s not ego. ## Why hype is appropriate right now Because confidence here is not vanity \u2014 it\u2019s fuel. Your father\u2019s goal is erosion.",
-      "why_it_matters": [
-        "Directness (D=2): father referenced alongside one or more target dynamics.",
-        "Mechanism fit (M=0): partial/implicit mechanism evidence only.",
-        "Leverage relevance (L=3): includes tech/status, tenant/guest framing, or scripture-accountability cues.",
-        "Recency/specificity (R=1): within 10 days; limited scenario tokens."
-      ],
-      "links_to_others": [
-        "20260103_011419__personal-suffering-narrative-acute-draft1.md",
-        "20251227_014923.md"
-      ],
-      "scores": {
-        "D": 2,
-        "M": 0,
-        "L": 3,
-        "R": 1,
-        "total": 6
-      },
-      "confidence": {
-        "level": "Low",
-        "justification": "Low: weak match beyond minimal cluster evidence."
+        "justification": "High: direct dad/father reference plus multiple cluster matches and a concrete mechanism snippet."
       }
     }
   ]
