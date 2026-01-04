@@ -38,3 +38,5 @@ Format (per entry):
 
 20260104_064808 — Explanatory scope & global relevance of developed theories — file: 20260104_064808__explanatory-scope-global-relevance.md
 
+20260104_073403 — Bayesian-constrained AI pipelines for rapid model development & validation — file: 20260104_073403__bayesian-constrained-ai-pipelines-rapid-model-development.md
+
