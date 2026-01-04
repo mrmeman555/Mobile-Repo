@@ -36,3 +36,5 @@ Format (per entry):
 
 20260104_012246 — Deep research prompt architecture (“prompt compiler”) — file: 20260104_012246__deep-research-prompt-architecture-meta-prompt-compiler.md
 
+20260104_064808 — Explanatory scope & global relevance of developed theories — file: 20260104_064808__explanatory-scope-global-relevance.md
+
