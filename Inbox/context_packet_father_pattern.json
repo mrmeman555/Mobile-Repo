@@ -1,27 +1,27 @@
 {
   "context_packet_father_pattern": [
     {
-      "path": "/Inbox/situational-operating-note-family-survival-context.md",
-      "title_or_filename": "situational-operating-note-family-survival-context.md",
-      "date": "2025-12-24 23:39:41 +0000",
-      "snippet": "Core Reality (Non-Negotiable) This environment is not safe, not rational, and not repair-oriented. My father regulates himself through dominance, projection, and narrative control, not dialogue. My mother prioritizes ego stability, spiritual narrative, and hierarchy over my wellbeing.",
+      "path": "/user_context/suffering/20260103_011419__personal-suffering-narrative-acute-draft1.md",
+      "title_or_filename": "20260103_011419__personal-suffering-narrative-acute-draft1.md",
+      "date": "2026-01-03 01:14:49 +0000",
+      "snippet": "## 7) Marriage Deterioration Under Abuse + Sexual Withholding \u2192 Collapse of Advanced Plans During this time, your wife took zero accountability, and you describe her as narcissistically abusive. Sexual connection was absent (vaginismus, and the reality that you weren\u2019t being met relationally). You were encouraged into a master\u2019s in computer science, but it flopped because the environment collapsed: you had to pursue divorce because she didn\u2019t respect you, and your father was simultaneously pressuring you to leave.",
       "why_it_matters": [
-        "D=3: dad/father is referenced alongside scenario dynamics.",
-        "M=2: multiple steps of the composite mechanism appear.",
-        "L=3: Bible/prayer accountability or tech/status leverage cues present.",
-        "R=2: within 16 days; scenario-specific tokens present."
+        "D=3: dad/father is referenced.",
+        "M=2: shows linked steps of the composite mechanism.",
+        "L=3: ties to scripture-accountability or tech/status leverage.",
+        "R=3: within 16 days; scenario tokens present."
       ],
       "links_to_others": [],
       "scores": {
         "D": 3,
         "M": 2,
         "L": 3,
-        "R": 2,
-        "total": 10
+        "R": 3,
+        "total": 11
       },
       "confidence": {
         "level": "High",
-        "justification": "High: direct dad/father reference plus multiple cluster matches and a concrete mechanism snippet."
+        "justification": "High: direct dad/father reference plus multiple cluster matches and concrete mechanism window."
       }
     }
   ]

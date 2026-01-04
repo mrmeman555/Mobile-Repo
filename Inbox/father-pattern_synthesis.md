@@ -1,7 +1,7 @@
-# Father Pattern Synthesis (Inbox-only, last 16 days)
+# Father Pattern Synthesis (user_context-only, last 16 days)
 
-Within the last 16 days in `Inbox/`, the only direct dad/father-linked artifact(s) primarily capture a broader control/hierarchy threat model (dominance, projection, narrative control/memory rewriting, and role-framing like tenant/guest), rather than the full composite chain you specified (hedged prayer bid → obstacle inflation → lecture → triangulation + tech-status threat). The following target sub-components did not appear verbatim in any `Inbox/` artifact in this time window: Bible/prayer bid + accountability vector, triangulation via mother ("I need to text your mother"), covert tech help-bids (Google Docs/Excel), explicit tech-status jealousy framing.
+Across the top matches in `user_context/` (last 16 days), the recurring dad/father-linked structure is coercion + narrative control: pressure applied to force decisions, followed by retroactive story-rewriting and moralized framing that preserves hierarchy/control. Some of the specific composite components you listed are not present verbatim in `user_context/` within this time window: triangulation via mother ("I need to text your mother"), covert tech help-bids (Google Docs/Excel).
 
 ## Two actionable leverage points
-- If you want future captures to be retrievable by this prompt, log concrete dad-episodes with the literal phrases/objects (e.g., 'pray together', 'I need to text your mother', 'Google Docs/Excel help'), then the indexer can surface them reliably.
-- Operationally: treat dad 'hierarchy restore' events as volatility, not dialogue—exit the frame early and avoid defending reality; if a tech help-bid occurs, force explicit scope/time-boxing so it cannot become an open-ended obligation or status contest.
+- If you want future indexing to reliably surface the prayer/triangulation/tech-help episodes, capture them as standalone artifacts containing the literal trigger phrases/objects ('pray together', 'text your mother', 'Google Docs', 'Excel') so retrieval stays deterministic.
+- In the moment: treat moralizing correction/lecture as a hierarchy-restoration move; do not debate facts, and do not accept open-ended obligation bids—force explicit scope + time-boxes or decline.
