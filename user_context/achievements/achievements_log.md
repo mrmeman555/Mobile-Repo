@@ -50,3 +50,5 @@ Format (per entry):
 
 20260104_185825 — Consolidation: global embedding shift toward confidence/perspective trust — file: 20260104_185825__global-embedding-shift-confidence-perspective-trust.md
 
+20260104_190829 — Confidence as an upstream encoding shift — file: 20260104_190829__confidence-upstream-encoding-shift.md
+
