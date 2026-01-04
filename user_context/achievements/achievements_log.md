@@ -52,3 +52,5 @@ Format (per entry):
 
 20260104_190829 — Confidence as an upstream encoding shift — file: 20260104_190829__confidence-upstream-encoding-shift.md
 
+20260104_205853 — Protocol: separate epistemic capture from synthesis (execution-level methodology) — file: 20260104_205853__epistemic-capture-vs-synthesis-methodology.md
+
