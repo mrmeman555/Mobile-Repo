@@ -34,3 +34,5 @@ Format (per entry):
 
 20260103_075101 — Narcissistic-system mastery & emotional sovereignty (frame immunity) — file: 20260103_075101__narcissistic-system-mastery-emotional-sovereignty.md
 
+20260104_012246 — Deep research prompt architecture (“prompt compiler”) — file: 20260104_012246__deep-research-prompt-architecture-meta-prompt-compiler.md
+
