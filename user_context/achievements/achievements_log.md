@@ -46,3 +46,5 @@ Format (per entry):
 
 20260104_174014 — Unification: chosen belief ↔ embeddings ↔ AI use-case indexing — file: 20260104_174014__chosen-belief-embeddings-ai-use-case-indexing-unification.md
 
+20260104_181729 — Strategic convergence: AI mastery + self-understanding — file: 20260104_181729__strategic-convergence-ai-mastery-self-understanding.md
+
