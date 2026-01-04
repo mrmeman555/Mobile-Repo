@@ -13,5 +13,5 @@ This index tracks everything stored in `meta/`.
 
 ## Entries (newest first)
 
-- 2026-01-04 — (no entries yet)
+- 2026-01-04 — [Event Embedding — Post-Interaction Harm Framing Pattern](./2026-01-04--event-embedding-post-interaction-harm-framing-pattern.md) — Recurrent father–son pattern where, at conversation termination (especially when outcomes diverge from his intended frame), the ending is retroactively reframed as harm/neglect attributable to me, creating pressure for undefined repair and displacing emotional responsibility. (Tags: post-interaction harm framing; retroactive emotional blame; termination reframing; responsibility displacement; guilt induction; attachment threat response; authority preservation via moral framing)
 
