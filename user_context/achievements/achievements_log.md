@@ -40,3 +40,5 @@ Format (per entry):
 
 20260104_073403 — Bayesian-constrained AI pipelines for rapid model development & validation — file: 20260104_073403__bayesian-constrained-ai-pipelines-rapid-model-development.md
 
+20260104_121744 — Embedding-based self-model ↔ AI alignment convergence — file: 20260104_121744__embedding-self-model-ai-alignment-convergence.md
+
