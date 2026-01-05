@@ -13,6 +13,7 @@ This index tracks everything stored in `meta/`.
 
 ## Entries (newest first)
 
+- 2026-01-05 — [Decision-Theoretic Rarity and Survival Model Updates](./2026-01-05--decision-theoretic-rarity-and-survival-model-updates.md) — Rarity updates survival calculus only when it reflects constraint-aware, model-corrective action with cross-temporal benefits that improves decision accuracy (not ego/novelty). (Tags: decision theory; rarity; survival calculus; model correction; constraints; reconsolidation; cross-temporal benefit)
 - 2026-01-05 — [Core Operator — Confidence-Weighting of Contextual Details](./2026-01-05--core-operator-confidence-weighting-of-contextual-details.md) — Controllable lever in reconsolidation: reassign confidence-weights (predictive authority) to contextual details; events stay fixed while weights determine impact. (Tags: reconsolidation; belief updating; memory; identity updating; predictive authority; priors; confidence weighting)
   - Only voluntary control is the weighting assigned to contextual details.
   - Reconsolidation changes weights (reindexing), not the underlying stored events.
