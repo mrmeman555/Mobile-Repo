@@ -13,5 +13,8 @@ This index tracks everything stored in `meta/`.
 
 ## Entries (newest first)
 
+- 2026-01-05 — [Core Operator — Confidence-Weighting of Contextual Details](./2026-01-05--core-operator-confidence-weighting-of-contextual-details.md) — Controllable lever in reconsolidation: reassign confidence-weights (predictive authority) to contextual details; events stay fixed while weights determine impact. (Tags: reconsolidation; belief updating; memory; identity updating; predictive authority; priors; confidence weighting)
+  - Only voluntary control is the weighting assigned to contextual details.
+  - Reconsolidation changes weights (reindexing), not the underlying stored events.
 - 2026-01-04 — [Event Embedding — Post-Interaction Harm Framing Pattern](./2026-01-04--event-embedding-post-interaction-harm-framing-pattern.md) — Recurrent father–son pattern where, at conversation termination (especially when outcomes diverge from his intended frame), the ending is retroactively reframed as harm/neglect attributable to me, creating pressure for undefined repair and displacing emotional responsibility. (Tags: post-interaction harm framing; retroactive emotional blame; termination reframing; responsibility displacement; guilt induction; attachment threat response; authority preservation via moral framing)
 
