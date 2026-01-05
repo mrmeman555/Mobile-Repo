@@ -13,5 +13,6 @@ This index tracks achievement artifacts stored in `achievements/`.
 
 ## Entries (newest first)
 
+- 2026-01-05 — [Achievement Artifact — Unifying Second- and Third-Wave Therapy via Survival Calculus](./2026-01-05--achievement-artifact-unifying-second-and-third-wave-therapy-via-survival-calculus.md) — Mechanistically unified second-wave reframing and third-wave mindfulness/choice by identifying survival calculus and confidence weighting as the shared substrate, clarifying when each works or fails based on accurate risk correction. (Tags: achievement; therapy; CBT; ACT; DBT; mindfulness; survival calculus; confidence weighting)
 - 2026-01-05 — [Achievement Artifact — Survival-Calculus Unification Insight](./2026-01-05--achievement-artifact-survival-calculus-unification-insight.md) — Unified addiction, altered-state insight, and emotional relief/durability under one mechanism by distinguishing temporary threat suppression (“I will survive” state) from durable reconsolidation (reweighted survival calculus). (Tags: achievement; survival calculus; addiction; altered states; reconsolidation; confidence weighting; durability)
 
