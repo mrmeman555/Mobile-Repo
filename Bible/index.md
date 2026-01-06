@@ -13,5 +13,5 @@ This index tracks everything stored in `Bible/`.
 
 ## Entries (newest first)
 
-- 2026-01-06 — (no entries yet)
+- 2026-01-06 — [Withdrawal of Endorsement vs Denial — Reconsolidation Requires Replacement](./2026-01-06--withdrawal-of-endorsement-vs-denial-reconsolidation-requires-replacement.md) — “No” as withdrawal of endorsement stops reinforcing an interpretation, but reconsolidation requires installing and holding a coherent alternative frame so the old one becomes unnecessary. (Tags: belief; reconsolidation; interpretation; endorsement; replacement; self-model)
 
