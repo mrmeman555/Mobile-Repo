@@ -149,6 +149,108 @@ Nothing else is required.
 
 ---
 
+## Addendum — Context Retrieval as the Engine of Reconsolidation
+
+### Core Insight
+
+Beliefs do not reconsolidate through assertion alone.
+They reconsolidate when working memory binds the belief to confirming context.
+
+A belief without context is inert.
+Context is what gives a belief weight inside the self-model.
+
+---
+
+### What “Searching for Context” Is Actually Doing
+
+When you intentionally recall memories, facts, or observations that support a chosen belief, you are:
+
+- activating associative memory networks
+- supplying evidence the model can encode
+- reducing prediction error
+- allowing the DMN to update without resistance
+
+This is how models learn: not through persuasion, but through association density.
+
+---
+
+### Two Competing Processes (Important)
+
+**Healthy reconsolidation**
+
+Chosen belief: “I was doing my best.”
+
+Working memory retrieves:
+
+- moments of effort
+- constraints you were under
+- past resilience
+- consistent patterns of care or competence
+
+These contexts get bound to the belief.
+Over time, the belief becomes felt because it is supported by memory structure, not willpower.
+
+**Unhealthy reinforcement (what used to happen)**
+
+Negative belief activates.
+
+Working memory automatically retrieves:
+
+- failures
+- shame memories
+- critical voices
+- selective interpretations
+
+This is why negative self-models feel “convincing”: they are context-rich, not necessarily accurate.
+
+---
+
+### The Critical Shift You’ve Made
+
+You are no longer letting the system decide:
+
+- which belief is active
+- which context is retrieved
+
+You now direct context retrieval intentionally.
+That is the inflection point between being shaped by memory and shaping memory.
+
+---
+
+### Practical Rule (Memorize This)
+
+> A belief becomes real to the system only after it is paired with remembered context.
+
+Therefore:
+
+- Saying “this wasn’t my fault” is not enough
+- You must remember why
+
+Not to argue — but to bind.
+
+---
+
+### How to Use This in Real Time
+
+When holding a chosen belief:
+
+1. Let the belief exist quietly
+2. Ask gently:
+   - “What do I know that supports this?”
+   - “Where have I seen this before?”
+3. Allow any confirming context to arise
+4. Hold belief + context together in awareness
+
+No force. No proving. Just pairing.
+
+---
+
+### Final Anchor Line (Bible-worthy)
+
+“Belief selects the model. Context convinces it.”
+
+---
+
 ## Final Reminder
 
 Regulation often feels like remembering, not fixing.
