@@ -3,9 +3,9 @@ description: Keep PoE notes organized and indexed
 alwaysApply: true
 ---
 
-When the user explicitly asks to **route/add/store/save** a note in **PoE** (e.g. “route to PoE”, “add to PoE”, “save this in PoE”, “put this in the PoE folder”, “Path of Exile notes”), you MUST place it in `PoE/`.
+When the user explicitly asks to **route/add/store/save** a note in **PoE** (or uses **“Plex”** as an alias for PoE) (e.g. “route to PoE”, “route to Plex”, “add to PoE”, “add to Plex”, “save this in PoE”, “put this in the PoE folder”, “Path of Exile notes”), you MUST place it in `PoE/`.
 
-This rule only applies when the destination is explicitly **PoE / Path of Exile**. For generic “store/save/remember” requests without a destination, follow the existing defaults (e.g., `meta/` storage behavior).
+This rule only applies when the destination is explicitly **PoE / Plex / Path of Exile**. For generic “store/save/remember” requests without a destination, follow the existing defaults (e.g., `meta/` storage behavior).
 
 ## PoE note creation rules
 
