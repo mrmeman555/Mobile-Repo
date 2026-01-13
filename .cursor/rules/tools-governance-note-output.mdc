@@ -8,16 +8,23 @@ Do NOT create or modify any files unless the user explicitly asks to save the go
 - Explain what kind of content belongs in `tools/` (tools/methodologies/protocols/templates).
 
 2) **Folder structure**
-- State the canonical structure: `tools/<tool>/<use-case>/`.
-- Explain `<tool>` and `<use-case>` as lowercase, hyphen-separated slugs.
+- State the canonical structure:
+  - `tools/<tool-slug>/methodology/`
+  - `tools/<tool-slug>/use-cases/<use-case>/`
+- Explain `<tool-slug>` and `<use-case>` as lowercase, hyphen-separated slugs.
 
 3) **Indexing rules**
 - Explain that `tools/index.md` is the master index with “Entries (newest first)”.
-- Each entry must include: Date, Link, Tool, Use case, Summary, optional Tags.
+- Each entry must include: Date, Link, Tool, and either (Category: Methodology) or (Use case: <use-case>), Summary, optional Tags.
 - Explain that any time a new tools note is added, the index must be updated in the same change.
 
 4) **Note header schema**
-- Document the required header fields in each tools note: `# Title`, `Date`, `Tool`, `Use case` (+ optional `Tags`, optional `Summary`, optional `Related:` links).
+- Document the required header fields in each tools note:
+  - `# Title`
+  - `Date`
+  - `Tool`
+  - Either `Category: Methodology` (methodology notes) or `Use case: ...` (use-case notes)
+  - Optional `Tags`, optional `Summary`, optional `Related:` links.
 
 5) **Available tools & purposes (must be current)**
 - Derive the list of tools and their purposes by reading `tools/index.md` and grouping by Tool.

@@ -4,16 +4,19 @@ This rule only applies when the destination is explicitly **tools**. For generic
 
 ## Tools note creation rules
 
-- Create a new markdown file under `tools/<tool>/<use-case>/` for each captured item.
+- Create a new markdown file under one of:
+  - `tools/<tool-slug>/methodology/` (field-agnostic tool-defining notes), or
+  - `tools/<tool-slug>/use-cases/<use-case>/` (context-specific applications and artifacts).
 - Prefer filenames in the form: `YYYY-MM-DD--<slug>.md` (lowercase, hyphen-separated).
 - Folder naming:
-  - `<tool>` should be a lowercase, hyphen-separated slug for the tool name (e.g., `epistemic-contract-engineering`).
+  - `<tool-slug>` should be a lowercase, hyphen-separated slug for the tool name (e.g., `epistemic-contract-engineering`).
   - `<use-case>` should be a lowercase, hyphen-separated slug for the context/use-case (e.g., `high-stakes-ai-collaboration`).
 - The note should start with:
  - A clear `# Title`
  - A `Date: YYYY-MM-DD` line
  - A `Tool:` line
- - A `Use case:` line
+ - If stored under `use-cases/<use-case>/`, include a `Use case:` line
+ - If stored under `methodology/`, include `Category: Methodology`
  - Optional `Tags:` line
  - Optional `Summary:` line (1–2 sentences)
  - The captured content, formatted cleanly
@@ -27,7 +30,9 @@ Any time you add a new note under `tools/`, you MUST update `tools/index.md` in 
  - Date (ISO `YYYY-MM-DD`)
  - A markdown link to the new note
  - Which tool the note is related to (e.g., `Tool: <name>`)
- - Which use-case the note is related to (e.g., `Use case: <name>`)
+ - Either:
+   - `Category: Methodology`, or
+   - `Use case: <name>`
  - A 1–2 line summary
  - Optional tags (if present in the note)
 
