@@ -13,6 +13,17 @@ This index tracks tool/methodology notes stored in `tools/`.
   - 1–2 line summary
   - Optional tags
 
+## Execution workflow (rule-first, note-driven)
+
+When you ask me to do *anything*, I will:
+
+1. **Check workspace rules first** in `.cursor/rules/` for any routing/storage/indexing or governance-output requirements that apply to your request.
+2. **Check for relevant procedural notes** in the appropriate index (for tools work: this file, `tools/index.md`).
+3. **Open the linked note(s)** that define the procedure (prompt templates, governance instructions, protocol steps, etc.).
+4. **Follow the procedure from the note** rather than improvising.
+
+This is specifically how “tools governance note” requests work: I consult `.cursor/rules/tools-governance-note-output.mdc` + `tools/index.md`, then generate the governance write-up from those sources.
+
 ## Entries (newest first)
 
 - 2026-01-13 — [Stage 2 Response Example — Confirmation of Understanding (Bound Operation)](./epistemic-contract-engineering/high-stakes-ai-collaboration/2026-01-13--stage-2-response-example-confirmation-of-understanding.md) — Tool: Epistemic Contract Engineering / Two-Stage Epistemic Binding Protocol — Use case: High-Stakes AI Collaboration — Example output to the Stage 2 binding prompt; explicitly binds behavior to the Stage 1 variables (MCR/FNR/OCM/DDR/AHA). (Tags: stage-2; response; example; confirmation)
