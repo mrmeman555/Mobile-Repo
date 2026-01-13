@@ -21,6 +21,7 @@ Any time you add a new note under `tools/`, you MUST update `tools/index.md` in 
 - The entry must include:
  - Date (ISO `YYYY-MM-DD`)
  - A markdown link to the new note
+ - Which tool the note is related to (e.g., `Tool: <name>`)
  - A 1–2 line summary
  - Optional tags (if present in the note)
 
