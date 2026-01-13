@@ -4,6 +4,8 @@ Date: 2026-01-13
 
 Tool: Epistemic Contract Engineering / Two-Stage Epistemic Binding Protocol
 
+Use case: High-Stakes AI Collaboration
+
 Tags: methodology; prompting; stage-1; epistemic construction; variable definition; drift control; high-stakes; AI collaboration
 
 Summary: Specifies what the Stage 1 prompt must include to reliably produce a shared, calibrated understanding plus named consequence/stakes variables that can be referenced for Stage 2 binding and enforcement.

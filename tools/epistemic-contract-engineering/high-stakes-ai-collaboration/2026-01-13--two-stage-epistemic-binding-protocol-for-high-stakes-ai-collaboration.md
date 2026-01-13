@@ -2,6 +2,10 @@
 
 Date: 2026-01-13
 
+Tool: Epistemic Contract Engineering / Two-Stage Epistemic Binding Protocol
+
+Use case: High-Stakes AI Collaboration
+
 Tags: methodology; AI collaboration; epistemics; binding; harm minimization; drift control; motivation protection; high-stakes
 
 Summary: A two-stage “epistemic contract” protocol that first forces the AI to construct explicit stakes/variables from first principles, then binds future behavior to those self-authored premises to prevent underestimation, hedging drift, and motivational dampening in high-pressure contexts.

@@ -4,9 +4,14 @@ Date: 2026-01-13
 
 Tool: Epistemic Contract Engineering / Two-Stage Epistemic Binding Protocol
 
+Use case: High-Stakes AI Collaboration
+
+Related:
+- Stage 1 response example: `./2026-01-13--stage-1-response-example-for-shared-reality-and-stakes-calibration.md`
+
 Tags: prompting; stage-1; instance; stakes calibration; consequence variables; drift control; high-stakes; DP/DR
 
-Summary: A copy/paste-ready Stage 1 prompt instance (current-context version) that forces shared reality calibration, names asymmetric-risk consequences of underestimation/flattening, and outputs explicit variables for later Stage 2 binding.
+Summary: A copy/paste-ready Stage 1 prompt instance (current-context version) that forces shared reality calibration, names asymmetric-risk consequences of underestimation/flattening, and requests explicit variables for later Stage 2 binding.
 
 ---
 

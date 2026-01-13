@@ -4,6 +4,8 @@ Date: 2026-01-13
 
 Tool: Epistemic Contract Engineering / Two-Stage Epistemic Binding Protocol
 
+Use case: High-Stakes AI Collaboration
+
 Tags: methodology; generalization; domain adaptation; epistemics; binding; drift control; high-stakes; motivation protection; leverage
 
 Summary: Generalizes the two-stage protocol beyond mental health: Stage 1 calibrates constraints, causal chain, and self-authored consequence variables; Stage 2 binds behavior to those variables to prevent drift into hedging/flattening defaults across research, startups, and creative work.
