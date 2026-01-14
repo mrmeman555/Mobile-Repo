@@ -1,0 +1,32 @@
+---
+description: Keep grounding notes organized and indexed
+alwaysApply: true
+---
+
+When the user explicitly asks to **route/add/store/save** a note in **grounding** (e.g. “route to grounding”, “add to grounding”, “save this in grounding”, “put this in the grounding folder”), you MUST place it in `grounding/`.
+
+This rule only applies when the destination is explicitly **grounding**. For generic “store/save/remember” requests without a destination, follow the existing defaults (e.g., `meta/` storage behavior).
+
+## Grounding note creation rules
+
+- Create a new markdown file under `grounding/` for each captured item.
+- Prefer filenames in the form: `YYYY-MM-DD--<slug>.md` (lowercase, hyphen-separated).
+- The note should start with:
+  - A clear `# Title`
+  - A `Date: YYYY-MM-DD` line
+  - Optional `Tags:` line
+  - The captured content, formatted cleanly
+
+## Grounding index maintenance (required)
+
+Any time you add a new note under `grounding/`, you MUST update `grounding/index.md` in the same change:
+
+- Add a new bullet at the top under “Entries (newest first)”
+- The entry must include:
+  - Date (ISO `YYYY-MM-DD`)
+  - A markdown link to the new note
+  - A 1–2 line summary
+  - Optional tags (if present in the note)
+
+If you do not create a new grounding note, do not edit the grounding index.
+
