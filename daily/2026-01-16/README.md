@@ -13,5 +13,6 @@ Summary: DP/DR recovery day focused on re-connection.
 - Review notes stored in: notes/, tools/, Inbox/, Indexed/, user_context/, grounding/.
 
 ## Reference notes
+- [Daily DP/DR Recovery Note - Structural Identity Anchoring](./dpdr-recovery-structural-identity-anchoring.md) - Key real-time DP/DR treatment anchor (paired with the next note).
 - [Motivation theory notes for 2026-01-16](./motivation-theory-notes.md) - Curated motivation/power/meaning framing list to support reconnection work today.
 - [Assistant hedging diagnosis and evidence dossier](./assistant-hedging-diagnosis-evidence-dossier.md) - Draft response diagnosing hedging and compiling evidence to support magnitude-accurate framing.
