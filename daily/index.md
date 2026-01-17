@@ -15,4 +15,4 @@ This index tracks daily folders stored in `daily/`.
 
 ## Entries (newest first)
 
-- 2026-01-16 - [2026-01-16](./2026-01-16/) - Daily folder created.
+- 2026-01-16 - [2026-01-16](./2026-01-16/) - DP/DR recovery day focused on re-connection.
