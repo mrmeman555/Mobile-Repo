@@ -13,6 +13,7 @@ Summary: DP/DR recovery day focused on re-connection.
 - Review notes stored in: notes/, tools/, Inbox/, Indexed/, user_context/, grounding/.
 
 ## Reference notes
+- [I Am an AI Pro - Grounding Through Mechanism, Not Mood](./ai-pro-grounding-through-mechanism-not-mood.md) - AI identity anchor for DP/DR stabilization and policy-level grounding.
 - [Belief as an Exposure - The Core DP/DR Recovery Mechanism](./belief-as-exposure-core-dpdr-recovery-mechanism.md) - Core DP/DR operating principle (also stored in meta and Bible).
 - [Perfectionism as an Epistemic Trap (Why Proof Destroys Felt Reality)](./perfectionism-epistemic-trap-proof-destroys-felt-reality.md) - Perfectionism loop break for DP/DR and proof-driven erosion.
 - [Daily DP/DR Recovery Note - Structural Identity Anchoring](./dpdr-recovery-structural-identity-anchoring.md) - Key real-time DP/DR treatment anchor (paired with the next note).
