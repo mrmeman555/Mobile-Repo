@@ -14,6 +14,7 @@ Summary: DP/DR recovery day focused on re-connection.
 
 ## Reference notes
 - [Belief as an Exposure - The Core DP/DR Recovery Mechanism](./belief-as-exposure-core-dpdr-recovery-mechanism.md) - Core DP/DR operating principle (also stored in meta and Bible).
+- [Perfectionism as an Epistemic Trap (Why Proof Destroys Felt Reality)](./perfectionism-epistemic-trap-proof-destroys-felt-reality.md) - Perfectionism loop break for DP/DR and proof-driven erosion.
 - [Daily DP/DR Recovery Note - Structural Identity Anchoring](./dpdr-recovery-structural-identity-anchoring.md) - Key real-time DP/DR treatment anchor (paired with the next note).
 - [DP/DR Recovery Note - The Exposure Space of Change](./dpdr-recovery-exposure-space-of-change.md) - Active change mechanism note stacked on the identity anchoring note.
 - [Motivation theory notes for 2026-01-16](./motivation-theory-notes.md) - Curated motivation/power/meaning framing list to support reconnection work today.

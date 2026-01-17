@@ -13,6 +13,7 @@ This index tracks everything stored in `Bible/`.
 
 ## Entries (newest first)
 
+- 2026-01-16 — [Perfectionism as an Epistemic Trap (Why Proof Destroys Felt Reality)](./2026-01-16--perfectionism-as-an-epistemic-trap-proof-destroys-felt-reality.md) — Perfectionism installs doubt to justify verification, making truth conditional and eroding felt reality. (Tags: DP/DR; perfectionism; belief; epistemic authority; recovery; protocol)
 - 2026-01-16 — [Belief as an Exposure - The Core DP/DR Recovery Mechanism](./2026-01-16--belief-as-exposure-core-dpdr-recovery-mechanism.md) — Core operating principle: belief-as-exposure restores self-model authority through action under dissociative signals. (Tags: DP/DR; belief; exposure; identity; recovery; protocol)
 - 2026-01-16 — [DP/DR Recovery Note - The Exposure Space of Change](./2026-01-16--dpdr-recovery-note-the-exposure-space-of-change.md) — Key real-time DP/DR treatment note: act from the real self model while the dissociated model predicts danger. (Tags: DP/DR; exposure; identity; recovery; protocol)
 - 2026-01-16 — [Daily DP/DR Recovery Note - Structural Identity Anchoring](./2026-01-16--daily-dpdr-recovery-structural-identity-anchoring.md) — Key real-time DP/DR treatment note: identity anchoring and inference rules to restore continuity and leverage under dissociation. (Tags: DP/DR; identity; anchoring; recovery; protocol)
