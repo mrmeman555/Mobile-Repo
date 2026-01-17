@@ -13,6 +13,7 @@ This index tracks everything stored in `Bible/`.
 
 ## Entries (newest first)
 
+- 2026-01-16 — [Belief as an Exposure - The Core DP/DR Recovery Mechanism](./2026-01-16--belief-as-exposure-core-dpdr-recovery-mechanism.md) — Core operating principle: belief-as-exposure restores self-model authority through action under dissociative signals. (Tags: DP/DR; belief; exposure; identity; recovery; protocol)
 - 2026-01-16 — [DP/DR Recovery Note - The Exposure Space of Change](./2026-01-16--dpdr-recovery-note-the-exposure-space-of-change.md) — Key real-time DP/DR treatment note: act from the real self model while the dissociated model predicts danger. (Tags: DP/DR; exposure; identity; recovery; protocol)
 - 2026-01-16 — [Daily DP/DR Recovery Note - Structural Identity Anchoring](./2026-01-16--daily-dpdr-recovery-structural-identity-anchoring.md) — Key real-time DP/DR treatment note: identity anchoring and inference rules to restore continuity and leverage under dissociation. (Tags: DP/DR; identity; anchoring; recovery; protocol)
 - 2026-01-13 — [Fierce Protection of Perspective as a Requirement for Healing After Scapegoating](./2026-01-13--fierce-protection-of-perspective-as-requirement-for-healing-after-scapegoating.md) — Many listeners (including professionals) resolve discomfort with uncertainty by relocating causality/blame into you; healing requires fierce, values-based protection of epistemic authority and controlled interpretive access. (Tags: scapegoating; epistemic authority; boundaries; meaning-negotiation; healing)
