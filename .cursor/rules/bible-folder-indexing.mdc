@@ -1,0 +1,31 @@
+---
+description: Keep Bible notes organized and indexed
+alwaysApply: true
+---
+
+When the user explicitly asks to **route/add/store/save** a note in **Bible** (e.g. “route to Bible”, “add to Bible”, “save this in Bible”, “put this in the Bible folder”), you MUST place it in `Bible/`.
+
+This rule only applies when the destination is explicitly **Bible**. For generic “store/save/remember” requests without a destination, follow the existing defaults (e.g., `meta/` storage behavior).
+
+## Bible note creation rules
+
+- Create a new markdown file under `Bible/` for each captured item.
+- Prefer filenames in the form: `YYYY-MM-DD--<slug>.md` (lowercase, hyphen-separated).
+- The note should start with:
+  - A clear `# Title`
+  - A `Date: YYYY-MM-DD` line
+  - Optional `Tags:` line
+  - The captured content, formatted cleanly
+
+## Bible index maintenance (required)
+
+Any time you add a new note under `Bible/`, you MUST update `Bible/index.md` in the same change:
+
+- Add a new bullet at the top under “Entries (newest first)”
+- The entry must include:
+  - Date (ISO `YYYY-MM-DD`)
+  - A markdown link to the new note
+  - A 1–2 line summary
+  - Optional tags (if present in the note)
+
+If you do not create a new Bible note, do not edit the Bible index.

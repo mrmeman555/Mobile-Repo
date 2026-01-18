@@ -1,0 +1,45 @@
+---
+description: Store requested memories in meta/ and keep meta/index.md updated
+alwaysApply: true
+---
+
+If the user asks you to **store/remember/save** something (e.g. “store this”, “remember this”, “save this for later”, “put this in your memory”), you MUST create a note in the `meta/` folder unless the user explicitly specifies a different destination.
+
+This rule overrides the default “inbox” behavior: **storage requests go to `meta/`.**
+
+## What counts as a “storage request”
+
+Treat these as storage requests:
+- “store this”, “save this”, “remember this”, “keep this”, “log this”
+- “put this in meta”, “add this to meta”, “add to your notes”
+- Any instruction whose primary intent is to preserve information for later retrieval
+
+Do NOT treat ordinary discussion or transient planning as a storage request unless the user explicitly asks to store it.
+
+## Meta note creation rules
+
+- Create a new markdown file under `meta/` for each stored item.
+- Prefer filenames in the form: `YYYY-MM-DD--<slug>.md` (lowercase, hyphen-separated).
+- The note should start with:
+  - `# <Title>`
+  - `Date: YYYY-MM-DD`
+  - Optional `Tags: tag1, tag2`
+  - A short `Summary:` line (1–2 sentences)
+- Then include the stored content, using headings/lists as appropriate.
+
+## Meta index maintenance (required)
+
+Any time you add a new note under `meta/`, you MUST update `meta/index.md` in the same change:
+
+- Add a new bullet at the top under “Entries (newest first)”
+- The entry must include:
+  - Date (ISO `YYYY-MM-DD`)
+  - A markdown link to the new note
+  - The note’s `Summary:` (or a 1–2 line summary if none exists)
+  - Optional tags (if present)
+
+If you do not create a new meta note, do not edit the meta index.
+
+## Retrieval convention (for later)
+
+When the user asks what you have stored, consult `meta/index.md` first, then open the linked meta notes as needed.
