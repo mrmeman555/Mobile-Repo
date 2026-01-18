@@ -11,5 +11,6 @@ Summary: Pathfinding for near-term life change.
 - Draft a shortlist of candidate problems to test.
 
 ## Reference notes
+- [Compassion-First Constraint (CFC) for Cognitive Support and Coherence Testing](./compassion-first-constraint-cfc.md) - Alignment rules for low-noise, high-clarity AI support under load.
 - [Rapid life-change problem pathfinding](./rapid-life-change-problem-pathfinding.md) - Working note for defining a fast path and evaluating candidate problems.
 - [Recovery, trajectory, and trust note](./recovery-trajectory-and-trust-note.md) - Consolidation framing for integration, withdrawal, and current phase.
