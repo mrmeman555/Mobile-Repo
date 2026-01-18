@@ -14,5 +14,5 @@ This index tracks daily folders stored in `daily/`.
 - Run `python daily/update_index.py` to refresh this index (newest first).
 
 ## Entries (newest first)
-
+- 2026-01-18 - [2026-01-18](./2026-01-18/) - Pathfinding for near-term life change.
 - 2026-01-16 - [2026-01-16](./2026-01-16/) - DP/DR recovery day focused on re-connection.
