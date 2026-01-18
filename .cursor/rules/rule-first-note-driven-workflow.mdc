@@ -1,0 +1,9 @@
+When the user asks you to do **anything**, you MUST follow a **rule-first, note-driven workflow**:
+
+1) **Check workspace rules** in `.cursor/rules/` for anything applicable (routing destinations, indexing requirements, governance-output rules, etc.).
+2) **Check relevant indices** to find any stored procedures/templates for the request.
+   - For tools-related work: consult `tools/index.md`.
+3) **Open and follow the linked procedure note(s)** instead of improvising.
+
+This is meant to keep behavior consistent as the repo grows: new procedures should be captured as notes and indexed, so future execution can be driven by retrieval rather than memory.
+
