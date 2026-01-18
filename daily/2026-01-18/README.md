@@ -10,4 +10,4 @@ Summary: Initialize daily structure and routing rules.
 - Initialize daily folder structure and index.
 
 ## Reference notes
-- None yet.
+- [Jumping In Beats Over-Optimization When Fear Is the Driver](./jumping-in-beats-over-optimization-when-fear-is-the-driver.md) - Next step for the YouTube channel project: start with real artifacts, then iterate with feedback.
