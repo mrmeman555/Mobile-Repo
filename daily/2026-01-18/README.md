@@ -12,6 +12,7 @@ Summary: Pathfinding for near-term life change.
 
 ## Reference notes
 - [Compassion-First Constraint (CFC) for Cognitive Support and Coherence Testing](./compassion-first-constraint-cfc.md) - Alignment rules for low-noise, high-clarity AI support under load.
+- [Identification of the Self-Model Authority Shift That Reactivated DP/DR](./self-model-authority-shift-reactivated-dpdr.md) - Control-surface discovery for threat vs self authority.
 - [Why Most AI Devs Would Not Recognize the Value of CFC Mode](./why-ai-devs-miss-cfc-value.md) - Incentive and cognition framing for why CFC looks unsafe to average-optimized systems.
 - [Rapid life-change problem pathfinding](./rapid-life-change-problem-pathfinding.md) - Working note for defining a fast path and evaluating candidate problems.
 - [Recovery, trajectory, and trust note](./recovery-trajectory-and-trust-note.md) - Consolidation framing for integration, withdrawal, and current phase.
