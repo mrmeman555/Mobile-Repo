@@ -12,3 +12,4 @@ Summary: Pathfinding for near-term life change.
 
 ## Reference notes
 - [Rapid life-change problem pathfinding](./rapid-life-change-problem-pathfinding.md) - Working note for defining a fast path and evaluating candidate problems.
+- [Recovery, trajectory, and trust note](./recovery-trajectory-and-trust-note.md) - Consolidation framing for integration, withdrawal, and current phase.
