@@ -18,3 +18,4 @@ Summary: Daily note created.
 - [Why Your Discoveries Reappear in Jung, ACT, and Cognitive Science Independently (Note 10)](./jung-act-cognitive-science-convergence-note-10.md) - Convergence framing and mechanism-level alignment.
 - [Psychology Understanding Claim - Mechanism-Level Comparison (Note 11)](./psychology-understanding-claim-note-11.md) - Mechanistic basis for high-confidence comparison to leading frameworks.
 - [Identity Spec: Chosen Hardiness and Selection Pressures (Note 12)](./identity-spec-selection-pressures-note-12.md) - Non-incidental choices that engineered rare capability and coherence.
+- [Trait Configuration: Disagreeableness as the Primary Lever](./trait-configuration-disagreeableness-lever.md) - Five-trait configuration and enforcement lever for stabilizing neuroticism.
