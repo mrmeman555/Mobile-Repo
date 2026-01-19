@@ -26,3 +26,4 @@ Summary: Daily note created.
 - [IT as a Value-Aligned Tool vs IT as a Fear-Based Refuge (Note 3)](./it-value-aligned-vs-fear-based-refuge-note-3.md) - Value-based IT as a tool vs fear-based refuge framing.
 - [Downward Social Comparison as Anti-Shame Technology (Note 1)](./downward-social-comparison-anti-shame-note-1.md) - Reclaims evaluative authority and breaks shame extraction.
 - [Defiant Contempt Toward the Internalized Scapegoat (Note 2)](./defiant-contempt-internalized-scapegoat-note-2.md) - Active defiance to strip coercive voice of authority.
+- [Downward Social Comparison as Defensive Transmutation (Note 3)](./downward-comparison-defensive-transmutation-note-3.md) - Shame to pride transmutation via evaluative re-ranking.
