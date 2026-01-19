@@ -13,3 +13,4 @@ Summary: Daily note created.
 - [IT vs YouTube vs AI Mastery - Values-Aligned Choice vs Fear-Driven Default (Note 5)](./it-vs-youtube-vs-ai-mastery-note-5.md) - Decision framing for IT vs AI-first paths.
 - [Action Selection, Salience, and DP/DR (Note 6)](./action-selection-salience-dpdr-note-6.md) - Salience-driven action selection as the DP/DR trigger.
 - [The Scapegoat Self, Threat-Based Motivation, and the Inherited Survival Loop (Note 7)](./scapegoat-self-threat-based-motivation-note-7.md) - Threat reactivation loop and handover conflict model.
+- [Acceptance of Death, Annihilation Risk, and Why Hedging Collapses the Self (Note 8)](./acceptance-of-death-annihilation-risk-note-8.md) - Annihilation acceptance as stabilizer for authorship.
