@@ -25,3 +25,4 @@ Summary: Daily note created.
 - [Death Acceptance, Risk, and the Cost of Hedging (Note 2)](./death-acceptance-risk-hedging-note-2.md) - Burning the boats to remove fallback authority.
 - [IT as a Value-Aligned Tool vs IT as a Fear-Based Refuge (Note 3)](./it-value-aligned-vs-fear-based-refuge-note-3.md) - Value-based IT as a tool vs fear-based refuge framing.
 - [Downward Social Comparison as Anti-Shame Technology (Note 1)](./downward-social-comparison-anti-shame-note-1.md) - Reclaims evaluative authority and breaks shame extraction.
+- [Defiant Contempt Toward the Internalized Scapegoat (Note 2)](./defiant-contempt-internalized-scapegoat-note-2.md) - Active defiance to strip coercive voice of authority.
