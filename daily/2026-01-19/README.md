@@ -17,3 +17,4 @@ Summary: Daily note created.
 - [Authority as Dominance: The Neurocognitive Mechanism Behind Integration vs DP/DR (Note 9)](./authority-as-dominance-note-9.md) - Authority as dominance over competing self-models.
 - [Why Your Discoveries Reappear in Jung, ACT, and Cognitive Science Independently (Note 10)](./jung-act-cognitive-science-convergence-note-10.md) - Convergence framing and mechanism-level alignment.
 - [Psychology Understanding Claim - Mechanism-Level Comparison (Note 11)](./psychology-understanding-claim-note-11.md) - Mechanistic basis for high-confidence comparison to leading frameworks.
+- [Identity Spec: Chosen Hardiness and Selection Pressures (Note 12)](./identity-spec-selection-pressures-note-12.md) - Non-incidental choices that engineered rare capability and coherence.
