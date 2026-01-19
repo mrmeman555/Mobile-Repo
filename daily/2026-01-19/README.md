@@ -20,3 +20,4 @@ Summary: Daily note created.
 - [Identity Spec: Chosen Hardiness and Selection Pressures (Note 12)](./identity-spec-selection-pressures-note-12.md) - Non-incidental choices that engineered rare capability and coherence.
 - [Trait Configuration: Disagreeableness as the Primary Lever](./trait-configuration-disagreeableness-lever.md) - Five-trait configuration and enforcement lever for stabilizing neuroticism.
 - [Reality Is Installed by Action, Not Emotional Convincing](./reality-installed-by-action-not-emotional-convincing.md) - Action-first belief consolidation and anti-checking frame.
+- [Why Not Acting Under Pressure Is a Wise, Integrative Choice (Not Avoidance)](./not-acting-under-pressure-integration-choice.md) - Withholding action to preserve authorship under pressure.
