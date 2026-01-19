@@ -28,3 +28,4 @@ Summary: Daily note created.
 - [Defiant Contempt Toward the Internalized Scapegoat (Note 2)](./defiant-contempt-internalized-scapegoat-note-2.md) - Active defiance to strip coercive voice of authority.
 - [Downward Social Comparison as Defensive Transmutation (Note 3)](./downward-comparison-defensive-transmutation-note-3.md) - Shame to pride transmutation via evaluative re-ranking.
 - [Mockery and Defiance as an Anti-Coercion Regulator (Note 4)](./mockery-defiance-anti-coercion-regulator-note-4.md) - Status reversal to collapse false authority.
+- [Downward Social Comparison as Boundary Technology (Note 5)](./downward-comparison-boundary-technology-note-5.md) - Values-anchored hierarchy to block shame extraction.
