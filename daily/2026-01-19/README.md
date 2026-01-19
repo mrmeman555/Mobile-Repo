@@ -8,3 +8,4 @@ Summary: Daily note created.
 ## Reference notes
 - [Authority as the Core Integration Axis (Note 1)](./authority-core-integration-axis-note-1.md) - Core theory note on authority, self-authorship, and DP/DR stabilization.
 - [Acceptance of Death, Risk Saturation, and the Cost of Hedging (Note 2)](./acceptance-of-death-risk-saturation-note-2.md) - Risk saturation and authority restoration under extreme constraint.
+- [IT as Instrument vs IT as Refuge (Note 3)](./it-as-instrument-vs-refuge-note-3.md) - Author-model framing for IT vs independent creation paths.
