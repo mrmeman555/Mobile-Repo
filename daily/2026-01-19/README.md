@@ -15,3 +15,4 @@ Summary: Daily note created.
 - [The Scapegoat Self, Threat-Based Motivation, and the Inherited Survival Loop (Note 7)](./scapegoat-self-threat-based-motivation-note-7.md) - Threat reactivation loop and handover conflict model.
 - [Acceptance of Death, Annihilation Risk, and Why Hedging Collapses the Self (Note 8)](./acceptance-of-death-annihilation-risk-note-8.md) - Annihilation acceptance as stabilizer for authorship.
 - [Authority as Dominance: The Neurocognitive Mechanism Behind Integration vs DP/DR (Note 9)](./authority-as-dominance-note-9.md) - Authority as dominance over competing self-models.
+- [Why Your Discoveries Reappear in Jung, ACT, and Cognitive Science Independently (Note 10)](./jung-act-cognitive-science-convergence-note-10.md) - Convergence framing and mechanism-level alignment.
