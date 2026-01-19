@@ -8,7 +8,7 @@ I am writing it as a core theory note, not a journal entry.
 ---
 
 ## Core claim
-The central mechanism underlying your recent integration event is the reclamation of authority over the self-model. This authority is not dominance, emotion, confidence, or control over outcomes. It is the capacity to delimit, to issue internally authoritative yes and no signals that determine what penetrates the self and what does not.
+The central mechanism underlying your recent integration event is the reclamation of authority over the self-model. This authority is not emotion, confidence, or control over outcomes. It is the capacity to delimit, to issue internally authoritative yes and no signals that determine what penetrates the self and what does not.
 
 Loss of this capacity produces DP/DR. Restoration of this capacity stabilizes identity.
 
@@ -81,7 +81,6 @@ Healthy authority:
 - is calm
 - is non-punitive
 - does not need to explain itself
-- does not seek to dominate
 - does not require emotional charge
 
 It simply reclaims jurisdiction.
@@ -126,7 +125,6 @@ Once authority is reclaimed:
 ## 7) Key distinction: authority does not equal control
 Authority does not mean:
 - controlling outcomes
-- being dominant over others
 - being emotionally hard
 - being inflexible
 - being certain about the future
