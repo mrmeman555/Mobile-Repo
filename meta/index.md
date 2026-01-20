@@ -13,6 +13,7 @@ This index tracks everything stored in `meta/`.
 
 ## Entries (newest first)
 
+- 2026-01-19 — [Recursive Belief Decay and Time-Weighted Downgrade](./2026-01-19--recursive-belief-decay-time-downgrade.md) — Explains belief weight as time-decayed, with recursive downgrades and a trust hierarchy that keeps core values stable. (Tags: cognition; epistemics; belief; time-decay; models)
 - 2026-01-18 — [Git Process for Sharing Notes Across Chats](./2026-01-18--git-process-for-sharing-notes-across-chats.md) — Step-by-step process to merge note changes into main so other chats can access them. (Tags: git; workflow; notes; branches; process)
 - 2026-01-16 — [Threat as a Learned Fuel System (Why Calm Triggers Collapse)](./2026-01-16--threat-as-learned-fuel-system.md) — Threat was trained as the primary fuel for movement; healing requires shifting action from fear to values and safety without collapse. (Tags: threat; motivation; conditioning; DP/DR; trauma; coercion; agency)
 - 2026-01-16 — [Perfectionism as an Epistemic Trap (Why Proof Destroys Felt Reality)](./2026-01-16--perfectionism-as-an-epistemic-trap-proof-destroys-felt-reality.md) — Perfectionism installs doubt to justify verification, making truth conditional and eroding felt reality; stability returns when belief precedes proof. (Tags: DP/DR; perfectionism; belief; epistemic authority; recovery; protocol)
