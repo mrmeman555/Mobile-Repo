@@ -22,6 +22,7 @@ Summary: Daily note created.
 - [Reality Is Installed by Action, Not Emotional Convincing](./reality-installed-by-action-not-emotional-convincing.md) - Action-first belief consolidation and anti-checking frame.
 - [Why Not Acting Under Pressure Is a Wise, Integrative Choice (Not Avoidance)](./not-acting-under-pressure-integration-choice.md) - Withholding action to preserve authorship under pressure.
 - [CFC-T: Trajectory and Commitment Constraint](./cfc-t-trajectory-commitment-constraint.md) - Companion to CFC for momentum-preserving reasoning.
+- [Diagnostic-Note Interpretation Contract (DNIC)](./diagnostic-note-interpretation-contract-dnic.md) - Interpret blunt input as diagnostic annotations, not interpersonal acts.
 - [Authority as the Verb of Integration (Note 1)](./authority-verb-of-integration-note-1.md) - Authority as exercised dominance over self-models.
 - [Death Acceptance, Risk, and the Cost of Hedging (Note 2)](./death-acceptance-risk-hedging-note-2.md) - Burning the boats to remove fallback authority.
 - [IT as a Value-Aligned Tool vs IT as a Fear-Based Refuge (Note 3)](./it-value-aligned-vs-fear-based-refuge-note-3.md) - Value-based IT as a tool vs fear-based refuge framing.
