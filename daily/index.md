@@ -14,6 +14,7 @@ This index tracks daily folders stored in `daily/`.
 - Run `python daily/update_index.py` to refresh this index (newest first).
 
 ## Entries (newest first)
+- 2026-01-21 - [2026-01-21](./2026-01-21/) - Daily note created.
 - 2026-01-20 - [2026-01-20](./2026-01-20/) - Daily note created.
 - 2026-01-19 - [2026-01-19](./2026-01-19/) - Daily note created.
 - 2026-01-18 - [2026-01-18](./2026-01-18/) - Pathfinding for near-term life change.
