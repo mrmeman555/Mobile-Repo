@@ -1,0 +1,37 @@
+---
+description: ALL chats must follow this Session-Context Protocol to ensure provenance and continuity.
+globs: **/*
+---
+
+# Chat Session Protocol (The Context Layer)
+
+Every AI session creates a discrete unit of work anchored in the filesystem. This prevents "stateless" drifting and ensures every file has a clear origin story.
+
+## 1. Initialization (Start of Chat)
+- **Identify Purpose:** What is this session for? (e.g., "Debugging Auth", "Writing Chapter 1").
+- **Create Session Folder:**
+  - Path: `chats/YYYY-MM-DD--<slug>/`
+  - Example: `chats/2026-01-21--mobile-sync-setup/`
+- **Initialize Artifacts:**
+  - Create `README.md` (Goal & Status).
+  - Create `actions_log.md` (Empty, ready to log).
+
+## 2. Execution (During Chat)
+- **Log Actions:** Update `actions_log.md` continuously.
+  - Log commands run.
+  - Log files created/edited.
+  - Log key decisions.
+- **Contextualize Files:** 
+  - If a new note is created (e.g., `meta/new-concept.md`), add a "Context: Created in [Session Link]" line to its frontmatter or footer if appropriate.
+
+## 3. Handoff (End of Chat)
+- **Write `handoff_context.md`:**
+  - Summary of current state.
+  - Next steps for the *next* AI.
+  - Active constraints.
+- **Update Index:** Add the session to `chats/index.md`.
+- **Commit:** `git commit -m "Session <slug>: <summary>"`
+
+## 4. Continuity (Next Chat)
+- The user will trigger the next chat by pointing to the previous `handoff_context.md`.
+- **Instruction:** "Read `chats/.../handoff_context.md` and resume."
