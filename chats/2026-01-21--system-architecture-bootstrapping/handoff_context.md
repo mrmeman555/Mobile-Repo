@@ -1,19 +1,22 @@
-# Handoff Context: Mobile Sync Setup
+# Handoff Context: Mobile Sync Setup (v2)
 **Status:** Ready for Implementation
 **Repo State:** Clean, Consolidated, 816 Files.
-**Current Branch:** `main`
+**Architecture:** Chat Session Protocol is Active.
 
 ## The Goal
-The user needs to read/write these notes on their phone (iOS/Android).
+The user needs to set up **Mobile Access** (Read/Write) to this repository on their phone.
 They have chosen the **External Git Client** method (e.g., Working Copy for iOS, MGit for Android) because the Obsidian Git plugin is unstable on mobile.
 
 ## The Instructions for the Next AI
-"You are the Mobile Workflow Architect. The repository is fully prepped. The user wants to set up **Working Copy (iOS)** or **MGit (Android)** to sync this repo, and then point Obsidian Mobile to that local folder.
+"You are the Mobile Workflow Architect.
+**Crucial:** You must follow the `.cursor/rules/chat-session-protocol.mdc`!
+1. Create your session folder: `chats/2026-01-21--mobile-sync-implementation/`.
+2. Initialize your logs.
 
-**Your First Steps:**
+**Your Task:**
 1. Ask the user: 'Are you on **iOS** or **Android**?'
-2. Based on the answer, provide the specific, step-by-step tutorial to:
+2. Guide them to:
    - Clone `mrmeman555/Mobile-Repo`.
-   - Authenticate (Token vs Password).
-   - Configure the 'Sync Folder' so Obsidian can see it.
-3. Help the user verify they can see the 816 notes on their phone."
+   - Authenticate.
+   - Configure Obsidian to read the local folder.
+3. Verify they can see the 816 notes."
