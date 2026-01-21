@@ -1,37 +1,41 @@
 ---
-description: ALL chats must follow this Session-Context Protocol to ensure provenance and continuity.
+description: ALL chats must follow this Session-Context Protocol. Triggers on "Initiate Meta System" or fresh starts.
 globs: **/*
 ---
 
 # Chat Session Protocol (The Context Layer)
 
-Every AI session creates a discrete unit of work anchored in the filesystem. This prevents "stateless" drifting and ensures every file has a clear origin story.
+## 0. The Initiation Trigger
+**IF** the user says "Initiate Meta System", "Start Session", or begins a generic chat:
+**THEN** you must take control and run the **Setup Script**:
 
-## 1. Initialization (Start of Chat)
-- **Identify Purpose:** What is this session for? (e.g., "Debugging Auth", "Writing Chapter 1").
-- **Create Session Folder:**
-  - Path: `chats/YYYY-MM-DD--<slug>/`
-  - Example: `chats/2026-01-21--mobile-sync-setup/`
+1.  **Ask:** "What is the primary goal of this session?"
+2.  **Ask:** "Which **Session Type** fits best?" (Present options):
+    -   **Architect:** Designing systems, changing rules, restructuring folders. (Access: `meta/`, `.cursor/rules/`, `chats/`)
+    -   **Builder:** Creating content, writing code, executing tasks. (Access: `src/`, `daily/`, `inbox/`)
+    -   **Gardener:** Organizing, cleaning, indexing, fixing links. (Access: Full Read/Write, low creativity)
+3.  **Wait** for user input.
+
+## 1. Initialization (Post-Input)
+Once the user answers:
+- **Create Session Folder:** `chats/YYYY-MM-DD--<topic-slug>/`
 - **Initialize Artifacts:**
-  - Create `README.md` (Goal & Status).
-  - Create `actions_log.md` (Empty, ready to log).
+  - `README.md`: Populate with Goal, Type, and current Date.
+  - `actions_log.md`: Initialize.
+- **Load Context:**
+  - If **Architect**: Read `meta/system-architecture/` files.
+  - If **Builder**: Ask for relevant specific files or previous handoffs.
 
 ## 2. Execution (During Chat)
 - **Log Actions:** Update `actions_log.md` continuously.
-  - Log commands run.
-  - Log files created/edited.
-  - Log key decisions.
-- **Contextualize Files:** 
-  - If a new note is created (e.g., `meta/new-concept.md`), add a "Context: Created in [Session Link]" line to its frontmatter or footer if appropriate.
+- **Maintain Scope:**
+  - If **Architect**, ensure changes are documented in `meta/`.
+  - If **Builder**, focus on the deliverable.
+  - If **Gardener**, focus on consistency.
 
 ## 3. Handoff (End of Chat)
 - **Write `handoff_context.md`:**
-  - Summary of current state.
-  - Next steps for the *next* AI.
-  - Active constraints.
-- **Update Index:** Add the session to `chats/index.md`.
+  - Status: (Complete/InProgress)
+  - Next Steps: Specific instructions for the next agent.
+- **Update Index:** Add session to `chats/index.md`.
 - **Commit:** `git commit -m "Session <slug>: <summary>"`
-
-## 4. Continuity (Next Chat)
-- The user will trigger the next chat by pointing to the previous `handoff_context.md`.
-- **Instruction:** "Read `chats/.../handoff_context.md` and resume."
