@@ -1,0 +1,28 @@
+{
+  "context_packet_father_pattern": [
+    {
+      "path": "/user_context/suffering/20260103_011419__personal-suffering-narrative-acute-draft1.md",
+      "title_or_filename": "20260103_011419__personal-suffering-narrative-acute-draft1.md",
+      "date": "2026-01-03 01:14:49 +0000",
+      "snippet": "## 7) Marriage Deterioration Under Abuse + Sexual Withholding \u2192 Collapse of Advanced Plans During this time, your wife took zero accountability, and you describe her as narcissistically abusive. Sexual connection was absent (vaginismus, and the reality that you weren\u2019t being met relationally). You were encouraged into a master\u2019s in computer science, but it flopped because the environment collapsed: you had to pursue divorce because she didn\u2019t respect you, and your father was simultaneously pressuring you to leave.",
+      "why_it_matters": [
+        "D=3: dad/father is referenced.",
+        "M=2: shows linked steps of the composite mechanism.",
+        "L=3: ties to scripture-accountability or tech/status leverage.",
+        "R=3: within 16 days; scenario tokens present."
+      ],
+      "links_to_others": [],
+      "scores": {
+        "D": 3,
+        "M": 2,
+        "L": 3,
+        "R": 3,
+        "total": 11
+      },
+      "confidence": {
+        "level": "High",
+        "justification": "High: direct dad/father reference plus multiple cluster matches and concrete mechanism window."
+      }
+    }
+  ]
+}
