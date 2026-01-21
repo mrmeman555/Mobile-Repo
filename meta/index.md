@@ -13,6 +13,7 @@ This index tracks everything stored in `meta/`.
 
 ## Entries (newest first)
 
+- 2026-01-21 — [Boundary-Collapse Reality (Working Model)](./2026-01-21--boundary-collapse-reality-working-model.md) — Exploratory model framing lived reality as boundary collapse and encoding across time, with black hole, perception, and AI parallels. (Tags: reality; time; collapse; perception; information; epistemics; AI)
 - 2026-01-20 — [DP/DR vs Narcissistic Reality Stabilization](./2026-01-20--dpdr-vs-narcissistic-reality-stabilization.md) — Contrasts internal coherence with externalized reality regulation and coercion mechanics. (Tags: DP/DR; narcissism; self-model; reality; coercion)
 - 2026-01-19 — [Recursive Belief Decay and Time-Weighted Downgrade](./2026-01-19--recursive-belief-decay-time-downgrade.md) — Explains belief weight as time-decayed, with recursive downgrades and a trust hierarchy that keeps core values stable. (Tags: cognition; epistemics; belief; time-decay; models)
 - 2026-01-18 — [Git Process for Sharing Notes Across Chats](./2026-01-18--git-process-for-sharing-notes-across-chats.md) — Step-by-step process to merge note changes into main so other chats can access them. (Tags: git; workflow; notes; branches; process)
