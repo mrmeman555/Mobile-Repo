@@ -1,0 +1,13 @@
+  cursor/achievement-notes-review-56aa
+  cursor/agency-contamination-analysis-5a67
+  cursor/cdrp-bootstrap-understanding-283e
+  cursor/inbox-poe-folder-structure-b781
+  cursor/internal-flashback-trigger-documentation-0700
+  cursor/meta-folder-indexing-rules-56bd
+  cursor/mobile-workflow-audit-097b
+  cursor/note-routing-and-indexing-4e89
+  cursor/poe-folder-check-8b1a
+  cursor/recent-achievements-analysis-retrieval-c418
+  cursor/repo-workflow-confirmation-c4b8
+  cursor/situational-stability-plan-file-61d8
+  cursor/unavoidable-problems-achievement-f29a
