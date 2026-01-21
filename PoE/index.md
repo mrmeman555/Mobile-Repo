@@ -1,25 +1,19 @@
 # PoE index
 
-This index tracks everything stored in `PoE/`.
+This index tracks notes stored in `PoE/`.
 
 ## How to use
 
-- Add new PoE notes as individual markdown files in this folder.
-- Any time a new note is added, **update this index** with:
-  - Title (as a link)
-  - Date (ISO `YYYY-MM-DD`)
-  - 1–2 line summary
-  - Optional tags
+- Add new notes as individual markdown files in this folder.
+- This index is auto-generated.
 
 ## Entries (newest first)
 
-- 2026-01-09 — [Meta Research Pipeline: End-to-End Problem Definition & Expert Selection Engine](./2026-01-09--meta-research-pipeline-end-to-end-problem-definition-and-expert-selection-engine.md) — Formalizes “research what to research”: context pack → problem dimensions → expert-lens selection → constrained deep research execution, converting ambiguity into structured progress and preventing premature solutioning/confidence collapse. (Tags: #note; #batch0; meta-research; problem definition; expert selection; pipeline; optionality; confidence)
-- 2026-01-08 — [Expert Identification as a Problem Definition Engine](./2026-01-08--expert-identification-as-a-problem-definition-engine.md) — Treats expert selection as the act of defining the problem space (epistemic operators): lenses determine variables, signal/noise, and tradeoffs; formalizing this step turns deep research into a reusable meta-research engine across domains. (Tags: experts; problem definition; meta-research; lenses; decision architecture)
-- 2026-01-08 — [YouTube Algorithm Research & Data-Driven Space Analysis](./2026-01-08--youtube-algorithm-research-and-data-driven-space-analysis.md) — Adds an algorithm+data layer to the PoE YouTube pipeline: treat YouTube as optimization system, derive priors from public data (CTR/AVD/retention, search patterns, SocialBlade, comments), and identify PoE2 demand>supply windows where synthesis beats access. (Tags: YouTube; algorithm; data; PoE2; demand; MVP; research)
-- 2026-01-08 — [Framework for Assessing the YouTube Space (Discovery & Analysis Phase)](./2026-01-08--framework-for-assessing-the-youtube-space-discovery-and-analysis-phase.md) — Defines what to log before MVP: niche/sub-niche decomposition, value angles, channel repetition signals, monetization funnels, algorithm-aware performance patterns, and cross-channel opportunity extraction (constraints, uncontested spaces, fragile dominance). (Tags: YouTube; PoE; discovery; demand mapping; competition; algorithm; monetization)
-- 2026-01-08 — [The Deep-Research-Driven Confidence Pipeline](./2026-01-08--the-deep-research-driven-confidence-pipeline.md) — Universal next-step engine: context saturation → constraint isolation → signal extraction with recursive meta-research (“what context would make this answerable?”), selecting best-next-step by option value; turns ambiguity into inquiry and confidence into procedure. (Tags: research; decision engine; recursion; meta; optionality; confidence)
-- 2026-01-08 — [Meta-Directed Deep Research Framework](./2026-01-08--meta-directed-deep-research-framework.md) — End-to-end research pipeline (objectives → meta-criteria → questions → signals → decision → execution) that preserves optionality, prevents premature commitment, and converts uncertainty into bounded inquiry before MVP work. (Tags: research; meta; criteria; signals; decision; optionality; pipeline)
-- 2026-01-08 — [Pipeline-First Strategy, Optionality, and Confidence-Based Allocation (YouTube + Certs)](./2026-01-08--pipeline-first-optionality-and-confidence-based-allocation-youtube-and-certs.md) — Frames the pipeline as the unit of control; defines MCO as repeatable high-quality throughput; uses signal-based, guilt-free reallocation between certs and channel (e.g., revenue thresholds) to preserve optionality and reduce identity stakes/DPDR loops. (Tags: pipeline; optionality; YouTube; certs; allocation; MCO; thresholds)
-- 2026-01-08 — [PoE YouTube Project – Minimum Viable Entry & Upper-Bound Design](./2026-01-08--poe-youtube-project-minimum-viable-entry-and-upper-bound-design.md) — Frames YouTube as Phase 1 distribution surface; defines MVP as a sustainable pipeline (not content), with minimal entry (one promise, one format, 3–5 buffer, success=system integrity) and an upper-bound–preserving decision rule (“keep doors open”). (Tags: YouTube; leverage; pipeline; MVP; strategy)
-- 2026-01-06 — (no entries yet)
-
+- 2026-01-09 — [#note #batch0](./2026-01-09--meta-research-pipeline-end-to-end-problem-definition-and-expert-selection-engine.md) — No summary available.
+- 2026-01-08 — [Note: YouTube Algorithm Research & Data-Driven Space Analysis](./2026-01-08--youtube-algorithm-research-and-data-driven-space-analysis.md) — No summary available.
+- 2026-01-08 — [Research Pipeline Note — Meta-Directed Deep Research Framework](./2026-01-08--meta-directed-deep-research-framework.md) — No summary available.
+- 2026-01-08 — [PoE YouTube Project – Minimum Viable Entry & Upper-Bound Design](./2026-01-08--poe-youtube-project-minimum-viable-entry-and-upper-bound-design.md) — No summary available.
+- 2026-01-08 — [#note #batch0](./2026-01-08--expert-identification-as-a-problem-definition-engine.md) — No summary available.
+- 2026-01-08 — [Note: Framework for Assessing the YouTube Space (Discovery & Analysis Phase)](./2026-01-08--framework-for-assessing-the-youtube-space-discovery-and-analysis-phase.md) — No summary available.
+- 2026-01-08 — [Note: Pipeline-First Strategy, Optionality, and Confidence-Based Allocation (YouTube + Certs)](./2026-01-08--pipeline-first-optionality-and-confidence-based-allocation-youtube-and-certs.md) — No summary available.
+- 2026-01-08 — [The Deep-Research-Driven Confidence Pipeline](./2026-01-08--the-deep-research-driven-confidence-pipeline.md) — No summary available.

@@ -1,17 +1,11 @@
 # Inbox index
 
-This index tracks everything captured in `inbox/`.
+This index tracks notes stored in `inbox/`.
 
 ## How to use
 
-- Add new inbox notes as individual markdown files in this folder.
-- Any time a new note is added, **update this index** with:
-  - Title (as a link)
-  - Date (ISO `YYYY-MM-DD`)
-  - 1–2 line summary
-  - Optional tags
+- Add new notes as individual markdown files in this folder.
+- This index is auto-generated.
 
 ## Entries (newest first)
-
-- 2026-01-04 — (no entries yet)
 
