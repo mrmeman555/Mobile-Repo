@@ -7,6 +7,7 @@ This index tracks notes in `meta/`.
 - Unknown Date — [Event Embedding — Post-Interaction Harm Framing Pattern](./20260104_232807__event-embedding-post-interaction-harm-framing-pattern.md)
 - Unknown Date — [Event Embedding — Unsolicited Green Juice Interaction](./20260104_231834__event-embedding-unsolicited-green-juice-interaction.md)
 - 2026-01-21 — [Asymmetry-First ("Break the Game") Methodology — CFC-Clean](./2026-01-21--asymmetry-first-break-the-game-methodology-cfc-clean.md)
+- 2026-01-21 — [The Structural Danger of ChatGPT (Competence Overreach)](./2026-01-21--structural-danger-of-chatgpt-competence-overreach.md)
 - 2026-01-19 — [Recursive Belief Decay and Time-Weighted Downgrade](./2026-01-19--recursive-belief-decay-time-downgrade.md) — Explains belief weight as time-decayed, with recursive downgrades and trust hierarchy.
 - 2026-01-18 — [Git Process for Sharing Notes Across Chats](./2026-01-18--git-process-for-sharing-notes-across-chats.md) — Step-by-step process to merge note changes into main so other chats can access them.
 - 2026-01-16 — [Threat as a Learned Fuel System (Why Calm Triggers Collapse)](./2026-01-16--threat-as-learned-fuel-system.md) — Threat was trained as the primary fuel for movement; healing requires shifting action from fear to values and safety without collapse.
