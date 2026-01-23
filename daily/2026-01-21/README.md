@@ -2,6 +2,9 @@
 Date: 2026-01-21
 Summary: Asymmetry-first methodology for finding leverage via low-coercion tests.
 
+## Reference notes
+- [DP/DR Core Mechanism, Behavioral Lever, and Intuition Notes](./dpdr-core-mechanism-behavioral-lever-intuition.md) - Three notes on DP/DR root mechanism, maintaining lever, and intuition under pressure.
+
 ## Notes
 
 Asymmetry-First ("Break the Game") Methodology - CFC-Clean
