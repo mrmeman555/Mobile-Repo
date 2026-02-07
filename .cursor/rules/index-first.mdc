@@ -1,33 +1,60 @@
-# Index-First Access Rule — Mobile Repo
+# ML OS Grounding Rule — Mobile Repo
 
 > **Scope:** All files under `/home/aaron/Projects/Mobile-Repo/`
-> **Purpose:** Ensure agents always consult the master index before accessing any file.
+> **Purpose:** Runtime Grounding Sequence for every agent session touching this repository.
+> **Enforcement:** MANDATORY. No exceptions. Every session. Every access.
 
-## Rule
+## Runtime Grounding Sequence
 
-**Before accessing, reading, moving, creating, or modifying ANY file in this repository, you MUST first consult:**
+**Every time you begin working with this repository — whether reading, writing, searching, or modifying — you MUST execute this two-step grounding sequence IN ORDER:**
 
-`/home/aaron/Projects/Mobile-Repo/MASTER_FILE_INDEX.md`
+### Step 1 — Ground in the README
 
-This index catalogs every file in the repository with:
+**Read:** `/home/aaron/Projects/Mobile-Repo/README.md`
+
+This is the **identity document** for the repository. It tells you:
+- **What this repo is** — the geological record of ML OS's independent discovery
+- **Why it exists** — to preserve the full causal chain from raw thinking to architectural framework
+- **How it's organized** — category-driven structure mapped to ML OS relevance
+- **What ML OS is** — the system this entire repository is evidence for
+
+You must understand the repo's purpose and structure before touching any file. The README is your grounding context. Without it, you are operating without a self-model for this workspace.
+
+### Step 2 — Consult the MASTER_FILE_INDEX
+
+**Read:** `/home/aaron/Projects/Mobile-Repo/MASTER_FILE_INDEX.md`
+
+This is the **source of truth** for every file in the repository. It catalogs all files with:
 - **Category** (ARCH, METH, BEL, PSY, PERS)
 - **ML OS Relevance** (CRITICAL, HIGH, MODERATE, LOW)
 - **Title and summary**
 - **Exact file path**
 
-## How to Use
+Use this index to locate, understand, and navigate files. Never browse directories blindly.
 
-1. If you need to find a file: search the index by keyword, category, or relevance level
-2. If you need to understand a file's purpose: the index has the summary
-3. If you need related files: the index groups files by category and subdirectory
-4. If you are creating a new file: after creation, you MUST add it to the index
-5. If you are moving or deleting a file: you MUST update the index
+## Why This Sequence Exists
+
+This is not bureaucracy. This is **ML OS grounding methodology applied to the repository itself.**
+
+The README provides the *upstream belief* — the interpretive frame that determines how you process everything else. The index provides the *structured knowledge* — the map of the territory. Together, they ensure every agent accessing this repo operates from a grounded, aligned perspective rather than drifting through files without context.
+
+This is the same principle documented in `architecture/embedding-theory/`: **upstream belief selects the interpreter.** The README selects your interpreter. The index gives your interpreter something to work with.
+
+## Operational Rules
+
+1. **Always README first, then Index.** Never skip Step 1.
+2. If you need to find a file: search the index by keyword, category, or relevance level.
+3. If you need to understand a file's purpose: the index has the summary.
+4. If you need related files: the index groups files by category and subdirectory.
+5. If you are **creating** a new file: after creation, you MUST add it to the index.
+6. If you are **moving or deleting** a file: you MUST update the index.
+7. If you are **modifying** the repo structure: you MUST update both the README and the index.
 
 ## Never Do This
 
+- Never access files without completing the grounding sequence
 - Never browse directories to find files — use the index
-- Never access a file without knowing its category and relevance — check the index
-- Never modify the repo structure without updating the index
+- Never modify the repo structure without updating both README and index
 - Never assume you know what's in the repo — the index is the source of truth
 
 ## Category Legend

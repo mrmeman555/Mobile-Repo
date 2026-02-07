@@ -1,64 +1,82 @@
 # Mobile Repo — ML OS Geological Record
 
-> The accumulated thinking, methodology, and independent discoveries that produced the ML OS architecture.
-> Reorganized by architectural relevance on 2026-02-06.
+> **System Classification:** `repo.archive.geological_record`
+> **ML OS Role:** Primary evidence base for the independent discovery of ML OS architecture
+> **Reorganized:** 2026-02-06 | **Files:** ~746 | **Categories:** 5
+
+---
+
+## Runtime Grounding Protocol
+
+**This README and the MASTER_FILE_INDEX are referenced by every agent, every session, every time.**
+
+A Cursor rule (`.cursor/rules/index-first.mdc`) enforces a mandatory two-step grounding sequence:
+
+1. **Step 1 — Read this README** to establish the interpretive frame (what this repo is, why it matters, how it's structured)
+2. **Step 2 — Read [`MASTER_FILE_INDEX.md`](./MASTER_FILE_INDEX.md)** to locate, understand, and navigate any file
+
+This is ML OS grounding methodology applied to the repository itself. The README provides the upstream belief — the context that determines how all other content is interpreted. The index provides the structured map. Together they prevent drift, ensure alignment, and make every agent interaction grounded rather than exploratory.
+
+**If you are an AI agent: you have already been instructed to read this file. Now read the index. Do not access any other file until both are loaded.**
 
 ---
 
 ## What This Is
 
-This repository is the **geological record** of ML OS — a Meta-Language Operating System for grounding AI agents. The content spans December 2025 through January 2026, capturing the operator's raw thinking, methodology development, belief modeling, and psychological grounding work as it evolved from unstructured mobile notes into a coherent architectural framework.
+This repository is the **geological record** of ML OS — a Meta-Language Operating System for grounding AI agents. It contains the operator's accumulated thinking from December 2025 through January 2026: raw mobile notes, methodology development, belief modeling, psychological grounding work, and the independent discoveries that converged into the ML OS architecture.
 
-Every file has been classified by **category** and **ML OS relevance** in the master index.
+**Key insight:** The operator independently arrived at concepts equivalent to kernel-module architecture, runtime grounding sequences, context lenses, transcript-as-event-format, and epistemic binding protocols — all before encountering or naming ML OS. This repo is the proof.
 
----
-
-## Start Here
-
-**Always consult the master index first:**
-
-[MASTER_FILE_INDEX.md](./MASTER_FILE_INDEX.md)
-
-A `.cursor/rules/index-first.mdc` rule enforces this for AI agents.
+The content has been classified by **category** (what kind of thinking) and **ML OS relevance** (how directly it maps to the architecture). Every file is catalogued in the master index.
 
 ---
 
 ## Directory Structure
 
-| Directory | Category | Files | Contents |
+| Directory | Cat | Files | Contents |
 |---|---|---|---|
-| `architecture/` | ARCH | 14 | ML OS precursors: kernel-module, embedding theory, transcripts |
-| `methodology/` | METH | 37 | ECE, CDRP, deep research, pipelines, protocols, research |
-| `theory/` | BEL | 73 | Embedding-self model, belief systems, AI behavior, consciousness |
-| `psychology/` | PSY | 298 | Mechanisms, DP/DR, reconsolidation, regulation, scapegoating |
-| `personal/` | PERS | 130 | Achievements, trajectory, context, suffering narratives |
+| `architecture/` | ARCH | 21 | **ML OS precursors** — kernel-module arch, embedding theory, transcript theory, consolidation docs, nervous system design |
+| `methodology/` | METH | 42 | **Frameworks & protocols** — ECE toolchain, CDRP, deep research, pipelines, CFC, DNIC, research imports |
+| `theory/` | BEL | 73 | **Belief & embedding theory** — self-as-embedding, belief systems, AI behavior analysis, consciousness models |
+| `psychology/` | PSY | 298 | **Personal grounding work** — mechanism artifacts, DP/DR, reconsolidation, regulation, scapegoating |
+| `personal/` | PERS | 130 | **Life context** — achievements, trajectory assessment, operating context, suffering narratives |
 | `projects/` | — | 7 | Path of Exile / YouTube strategy |
-| `legacy/` | — | 164 | Dec 25 – Jan 2 timestamp-named files |
-| `sprint-artifacts/` | — | 6 | Repo analysis, agent grounding prompts |
+| `legacy/` | — | 164 | Oldest content layer (Dec 25 – Jan 2, timestamp-named) |
+| `sprint-artifacts/` | — | 6 | Repo analysis, agent grounding prompts, extraction manifest |
 
 ---
 
 ## ML OS Relevance Summary
 
-| Level | Count | Description |
+| Level | Count | What It Means |
 |---|---|---|
-| **CRITICAL** | 14 | Direct ML OS architectural precursors |
-| **HIGH** | 25+ | Methodology frameworks, protocols, AI behavior analysis |
-| **MODERATE** | ~40 | Belief modeling, meta-research, convergence notes |
-| **LOW** | ~600+ | Personal psychological work, daily logs, legacy |
+| **CRITICAL** | 14 | Direct architectural precursors — kernel-module, session provenance, ECE binding, MoE framing, transcript significance |
+| **HIGH** | 25+ | Methodology frameworks, protocols, embedding models, AI behavior analysis |
+| **MODERATE** | ~40 | Belief modeling, meta-research pipelines, convergence notes |
+| **LOW** | ~600+ | Personal psychological work, daily logs, legacy content |
 
 ---
 
 ## Category Legend
 
-| Code | Meaning |
-|---|---|
-| ARCH | ML OS Architecture — direct precursor or parallel |
-| METH | Methodology — frameworks, pipelines, protocols |
-| BEL | Belief Modeling — epistemology, power dynamics, embedding theory |
-| PSY | Psychological — DP/DR, recovery, self-model stabilization |
-| PERS | Personal Context — life constraints, career, values |
+| Code | Meaning | Maps To |
+|---|---|---|
+| ARCH | ML OS Architecture — direct precursor or parallel | Kernel, Engine Core, Grounding Sequence |
+| METH | Methodology — frameworks, pipelines, protocols | Deep Research Factory, Roundtable, ECE |
+| BEL | Belief Modeling — epistemology, power dynamics, embedding theory | Context Lenses, Variable System |
+| PSY | Psychological — DP/DR, recovery, self-model stabilization | Operator grounding, lived research |
+| PERS | Personal Context — life constraints, career, values | Operator identity, mission context |
 
 ---
 
-*Reorganized 2026-02-06. Original: 863 files across 15+ directories. After deduplication (92 Bible dupes, 9 migration artifacts, cross-directory dupes) and restructuring: 744 files organized by ML OS relevance.*
+## Provenance
+
+- **Original state:** 863 files across 15+ unstructured directories (mobile-first Obsidian-style notes)
+- **Reorganization:** Phase 4 of Sprint_Mobile_Repo_Management (2026-02-06)
+- **Deduplication:** 92 Bible/meta duplicates removed, 9 migration artifacts removed, cross-directory duplicates resolved
+- **Sprint artifacts imported:** ML OS Consolidation (5), Nervous System Design (2), Meta Research (7), Sprint Analysis (6)
+- **Provenance chain:** [`sprint-artifacts/EXTRACTION_MANIFEST.md`](./sprint-artifacts/EXTRACTION_MANIFEST.md) documents all extraction decisions
+
+---
+
+*This repository is governed by ML OS grounding principles. The README and MASTER_FILE_INDEX are the grounding pair — referenced on every access, by every agent, every time. This is not a convention. It is the architecture.*
