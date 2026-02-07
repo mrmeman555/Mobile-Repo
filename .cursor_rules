@@ -1,0 +1,18 @@
+Main repository routing rule (menu-based, enforced):
+
+Any time new content is created, modified, or added to the repository, the agent MUST first present the following routing menu and require the user to choose ONE option code.
+
+The agent must not proceed until a single option code is selected.
+The user response must be the code only (e.g., `2a`).
+
+Routing menu:
+- 1  -> `/Inbox/` (raw notes / staging)
+- 2  -> `/Indexed/user_context/` (append-only timestamped context + append a new line to `/Indexed/user_context/INDEX.md`)
+- 2a -> `/Indexed/user_context/` (same as 2, but save content verbatim with no formatting changes)
+- 2b -> `/Indexed/user_context/` (same as 2, but allow light Markdown formatting while preserving wording)
+- 3  -> `/user_context/achievements/` (append-only evidence ledger)
+
+After selection, the agent must follow the folder-specific rules for that destination.
+
+If `/user_context/achievements/` (option 3) is selected, the agent must defer to `/user_context/achievements/.cursor_rules`.
+
