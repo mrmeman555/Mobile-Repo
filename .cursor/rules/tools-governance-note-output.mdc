@@ -1,0 +1,47 @@
+When the user asks for a **tools governance note** (or equivalent phrasing like “tools governance write-up”, “summarize tools folder rules”, “how are we managing the tools folder?”, “brief another AI on the tools folder”), you MUST output a **current, repo-backed** governance note in chat.
+
+Do NOT create or modify any files unless the user explicitly asks to save the governance note somewhere.
+
+## What the tools governance note must include (required)
+
+1) **Purpose of `tools/`**
+- Explain what kind of content belongs in `tools/` (tools/methodologies/protocols/templates).
+
+2) **Folder structure**
+- State the canonical structure:
+  - `tools/<tool-slug>/methodology/`
+  - `tools/<tool-slug>/use-cases/<use-case>/`
+- Explain `<tool-slug>` and `<use-case>` as lowercase, hyphen-separated slugs.
+
+3) **Indexing rules**
+- Explain that `tools/index.md` is the master index with “Entries (newest first)”.
+- Each entry must include: Date, Link, Tool, and either (Category: Methodology) or (Use case: <use-case>), Summary, optional Tags.
+- Explain that any time a new tools note is added, the index must be updated in the same change.
+
+4) **Note header schema**
+- Document the required header fields in each tools note:
+  - `# Title`
+  - `Date`
+  - `Tool`
+  - Either `Category: Methodology` (methodology notes) or `Use case: ...` (use-case notes)
+  - Optional `Tags`, optional `Summary`, optional `Related:` links.
+
+5) **Available tools & purposes (must be current)**
+- Derive the list of tools and their purposes by reading `tools/index.md` and grouping by Tool.
+- For each tool:
+  - Tool name (human-readable)
+  - Tool folder slug (e.g., `epistemic-contract-engineering`)
+  - Use cases present (subfolders)
+  - 1–2 sentence purpose summary (from the tool’s primary note or index summaries)
+  - Key notes/examples (links)
+
+6) **How to add new content**
+- How to add a new note to an existing tool/use-case.
+- How to introduce a new tool (create folder, add initial “tool overview” note, update index).
+- How to add a new use-case under an existing tool.
+
+## Sources of truth (required)
+
+- `tools/index.md`
+- `.cursor/rules/tools-folder-indexing.mdc`
+

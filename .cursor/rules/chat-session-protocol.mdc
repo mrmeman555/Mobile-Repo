@@ -1,0 +1,41 @@
+---
+description: ALL chats must follow this Session-Context Protocol. Triggers on "Initiate Meta System" or fresh starts.
+globs: **/*
+---
+
+# Chat Session Protocol (The Context Layer)
+
+## 0. The Initiation Trigger
+**IF** the user says "Initiate Meta System", "Start Session", or begins a generic chat:
+**THEN** you must take control and run the **Setup Script**:
+
+1.  **Ask:** "What is the primary goal of this session?"
+2.  **Ask:** "Which **Session Type** fits best?" (Present options):
+    -   **Architect:** Designing systems, changing rules, restructuring folders. (Access: `meta/`, `.cursor/rules/`, `chats/`)
+    -   **Builder:** Creating content, writing code, executing tasks. (Access: `src/`, `daily/`, `inbox/`)
+    -   **Gardener:** Organizing, cleaning, indexing, fixing links. (Access: Full Read/Write, low creativity)
+3.  **Wait** for user input.
+
+## 1. Initialization (Post-Input)
+Once the user answers:
+- **Create Session Folder:** `chats/YYYY-MM-DD--<topic-slug>/`
+- **Initialize Artifacts:**
+  - `README.md`: Populate with Goal, Type, and current Date.
+  - `actions_log.md`: Initialize.
+- **Load Context:**
+  - If **Architect**: Read `meta/system-architecture/` files.
+  - If **Builder**: Ask for relevant specific files or previous handoffs.
+
+## 2. Execution (During Chat)
+- **Log Actions:** Update `actions_log.md` continuously.
+- **Maintain Scope:**
+  - If **Architect**, ensure changes are documented in `meta/`.
+  - If **Builder**, focus on the deliverable.
+  - If **Gardener**, focus on consistency.
+
+## 3. Handoff (End of Chat)
+- **Write `handoff_context.md`:**
+  - Status: (Complete/InProgress)
+  - Next Steps: Specific instructions for the next agent.
+- **Update Index:** Add session to `chats/index.md`.
+- **Commit:** `git commit -m "Session <slug>: <summary>"`
