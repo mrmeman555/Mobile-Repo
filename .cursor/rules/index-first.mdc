@@ -1,0 +1,41 @@
+# Index-First Access Rule — Mobile Repo
+
+> **Scope:** All files under `/home/aaron/Projects/Mobile-Repo/`
+> **Purpose:** Ensure agents always consult the master index before accessing any file.
+
+## Rule
+
+**Before accessing, reading, moving, creating, or modifying ANY file in this repository, you MUST first consult:**
+
+`/home/aaron/Projects/Mobile-Repo/MASTER_FILE_INDEX.md`
+
+This index catalogs every file in the repository with:
+- **Category** (ARCH, METH, BEL, PSY, PERS)
+- **ML OS Relevance** (CRITICAL, HIGH, MODERATE, LOW)
+- **Title and summary**
+- **Exact file path**
+
+## How to Use
+
+1. If you need to find a file: search the index by keyword, category, or relevance level
+2. If you need to understand a file's purpose: the index has the summary
+3. If you need related files: the index groups files by category and subdirectory
+4. If you are creating a new file: after creation, you MUST add it to the index
+5. If you are moving or deleting a file: you MUST update the index
+
+## Never Do This
+
+- Never browse directories to find files — use the index
+- Never access a file without knowing its category and relevance — check the index
+- Never modify the repo structure without updating the index
+- Never assume you know what's in the repo — the index is the source of truth
+
+## Category Legend
+
+| Code | Meaning | Directory |
+|---|---|---|
+| ARCH | ML OS Architecture — direct precursors | `architecture/` |
+| METH | Methodology — frameworks, pipelines, protocols | `methodology/` |
+| BEL | Belief Modeling — epistemology, embedding theory | `theory/` |
+| PSY | Psychological — DP/DR, recovery, grounding | `psychology/` |
+| PERS | Personal Context — career, trajectory, values | `personal/` |

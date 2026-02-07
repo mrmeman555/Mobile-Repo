@@ -1,7 +1,0 @@
-Rules for `/user_context/achievements/`:
-
-- The agent may ONLY append to `achievements_log.md`.
-- The agent must NEVER edit, reorder, summarize, or delete prior entries.
-- The agent must refuse requests that attempt to reinterpret or compress entries.
-- If asked to add content, the agent must ask for the exact text to append OR propose text for approval before appending.
-

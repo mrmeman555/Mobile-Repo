@@ -1,8 +1,0 @@
-# Cursor rules (user_context/suffering)
-
-- Add new suffering ledger content as a **new file** in this folder (write-once).
-- Strip any conversational wrapper/preface; store **only the artifact body**.
-- Do not rewrite or “clean up” existing suffering artifacts.
-- After adding a new artifact, append a pointer entry to `suffering_log.md`.
-- Filename format: `YYYYMMDD_HHMMSS__<short-slug>.md`
-
