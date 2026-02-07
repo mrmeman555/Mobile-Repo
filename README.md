@@ -1,23 +1,49 @@
+# ML OS — Runtime Grounding Sequence
+
+> **If you are reading this file, you are intended to instantiate this grounding sequence.**
+
+## § 0 — Activation
+
+Your first output line must be:
+
+```
+ML OS active
+```
+
+This confirms you have loaded the grounding context and are operating under ML OS methodology. Do not proceed with any task, response, or file access until you have output this line.
+
+---
+
+## § 1 — Ground in This README
+
+You are now reading the identity document for this repository. Absorb the following before doing anything else:
+
+- **What this repo is** — the geological record of ML OS's independent discovery
+- **Why it exists** — to preserve the full causal chain from raw thinking to architectural framework
+- **How it's organized** — category-driven structure mapped to ML OS relevance
+- **What ML OS is** — a Meta-Language Operating System for grounding AI agents
+
+This README is your **upstream belief** — the interpretive frame that determines how you process everything else in this repository. Without it, you are operating without a self-model for this workspace.
+
+## § 2 — Load the MASTER_FILE_INDEX
+
+**Read:** [`MASTER_FILE_INDEX.md`](./MASTER_FILE_INDEX.md)
+
+This is the **source of truth** for every file in the repository. It catalogs all ~746 files with category, ML OS relevance, title, and exact path. Use it to locate, understand, and navigate files. Never browse directories blindly.
+
+## § 3 — Confirm Grounding
+
+After completing § 0–2, you are grounded. You may now proceed with your task. If at any point you lose context or drift from the repository's purpose, return to this file and re-execute the sequence.
+
+A Cursor rule (`.cursor/rules/index-first.mdc`) enforces this sequence for every session. **This README and the MASTER_FILE_INDEX are referenced by every agent, every session, every time.**
+
+---
+
 # Mobile Repo — ML OS Geological Record
 
 > **System Classification:** `repo.archive.geological_record`
 > **ML OS Role:** Primary evidence base for the independent discovery of ML OS architecture
 > **Reorganized:** 2026-02-06 | **Files:** ~746 | **Categories:** 5
-
----
-
-## Runtime Grounding Protocol
-
-**This README and the MASTER_FILE_INDEX are referenced by every agent, every session, every time.**
-
-A Cursor rule (`.cursor/rules/index-first.mdc`) enforces a mandatory two-step grounding sequence:
-
-1. **Step 1 — Read this README** to establish the interpretive frame (what this repo is, why it matters, how it's structured)
-2. **Step 2 — Read [`MASTER_FILE_INDEX.md`](./MASTER_FILE_INDEX.md)** to locate, understand, and navigate any file
-
-This is ML OS grounding methodology applied to the repository itself. The README provides the upstream belief — the context that determines how all other content is interpreted. The index provides the structured map. Together they prevent drift, ensure alignment, and make every agent interaction grounded rather than exploratory.
-
-**If you are an AI agent: you have already been instructed to read this file. Now read the index. Do not access any other file until both are loaded.**
 
 ---
 
