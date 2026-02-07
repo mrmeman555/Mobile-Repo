@@ -1,8 +1,8 @@
 # MASTER FILE INDEX — Mobile Repo
 
-> **Last Updated:** 2026-02-06
+> **Last Updated:** 2026-02-07
 > **Repo:** `/home/aaron/Projects/Mobile-Repo/`
-> **Total Files:** 744
+> **Total Files:** 746
 > **Purpose:** Complete catalog of every file. Source of truth for all agent access.
 
 ---
@@ -19,6 +19,7 @@
 | `projects/` | 7 | Path of Exile / YouTube strategy |
 | `legacy/` | 164 | Oldest content layer (Dec 25 – Jan 2) |
 | `sprint-artifacts/` | 6 | Repo analysis, agent prompts, extraction manifest |
+| `ml-os-runtime/` | 2 | **Python bootloader** — ML OS as runtime, not rulebook (Task #160) |
 | `root/` | 1 | README, EXTRACTION_MANIFEST |
 
 ---
@@ -993,6 +994,15 @@
 | 4 | `PROMPT_MobileRepo_Agent.md` | Mobile Repo Agent — Runtime Grounding Sequence Prompt | METH | LOW | 221 |
 | 5 | `PROMPT_Phase3_Extraction_Executor.md` | Mobile Repo Phase 3 — Extraction & Cleanup Executor | METH | LOW | 262 |
 | 6 | `PROMPT_Phase4_Reorganization.md` | Mobile Repo Agent — Phase 4: Full Reorganization | METH | LOW | 402 |
+
+---
+
+## Directory: ml-os-runtime/ (2 files)
+
+| # | File | Title | Cat | ML OS | Lines |
+|---|---|---|---|---|---|
+| 1 | `boot_ml_os.py` | ML OS Python Bootloader — v0.1 (Static Seed) | ARCH | **CRITICAL** | 185 |
+| 2 | `README.md` | ML OS Runtime — Python Bootloader | ARCH | HIGH | 87 |
 
 ---
 
