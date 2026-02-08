@@ -1,8 +1,8 @@
 # MASTER FILE INDEX — Mobile Repo
 
-> **Last Updated:** 2026-02-06
+> **Last Updated:** 2026-02-07
 > **Repo:** `/home/aaron/Projects/Mobile-Repo/`
-> **Total Files:** 744
+> **Total Files:** 784
 > **Purpose:** Complete catalog of every file. Source of truth for all agent access.
 
 ---
@@ -16,6 +16,7 @@
 | `theory/` | 73 | Embedding-self model, belief systems, AI behavior, consciousness |
 | `psychology/` | 298 | Mechanisms, DP/DR, reconsolidation, regulation, scapegoating, bible |
 | `personal/` | 130 | Achievements, trajectory, context, suffering |
+| `pyramids/` | 40 | Lithic Circuit simulation code, Bayesian research papers, AI transcripts, deep research examples |
 | `projects/` | 7 | Path of Exile / YouTube strategy |
 | `legacy/` | 164 | Oldest content layer (Dec 25 – Jan 2) |
 | `sprint-artifacts/` | 6 | Repo analysis, agent prompts, extraction manifest |
@@ -32,6 +33,7 @@
 | BEL | Belief Modeling — epistemology, embedding theory | `theory/` |
 | PSY | Psychological — DP/DR, recovery, grounding | `psychology/` |
 | PERS | Personal Context — career, trajectory, values | `personal/` |
+| PYR | Pyramid / Lithic Circuit — simulation, research, transcripts | `pyramids/` |
 
 ---
 
@@ -1071,6 +1073,88 @@
 
 ---
 
+## Directory: pyramids/ (40 files)
+
+> **Source project:** `/home/aaron/Projects/Pyramids/PyramidCode/` — Lithic Circuit Simulation
+> **Hypothesis:** Great Pyramid, Serapeum, and Hawara Labyrinth as components of a distributed geo-mechanical/electro-acoustic system.
+> **Stack:** Python/Streamlit simulation + Hierarchical Bayesian validation + Deep Research outputs.
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 1 | `README.md` | Pyramids project index and directory map | PYR |
+
+### pyramids/code/lithic_simulation/
+
+| # | File | Description | Cat |
+|---|---|---|---|
+| 2 | `app.py` | Main Streamlit dashboard | PYR |
+| 3 | `acoustics.py` | Giza acoustic resonance (Strouhal/Helmholtz) | PYR |
+| 4 | `piezo.py` | Piezoelectric conversion engine | PYR |
+| 5 | `serapeum_engine.py` | Serapeum LRSM/capacitance simulation | PYR |
+| 6 | `hawara_engine.py` | Hawara hydraulic pulse engine | PYR |
+| 7 | `network_engine.py` | Global network (obelisks, aquifer, geomagnetic) | PYR |
+| 8 | `bayesian_engine.py` | Bayesian verdict calculator | PYR |
+| 9 | `bayesian_graph.py` | Bayesian visualization | PYR |
+| 10 | `brine_engine.py` | Brine chemistry simulation | PYR |
+| 11 | `chemical_engine.py` | Chemical processes engine | PYR |
+| 12 | `component_x_engine.py` | Speculative component module | PYR |
+| 13 | `perturbation_engine.py` | Perturbation analysis | PYR |
+| 14 | `thermal_engine.py` | Thermal modeling | PYR |
+| 15 | `valve_farm.py` | Hydraulic valve farm simulation | PYR |
+| 16 | `visualization_3d.py` | 3D visualization module | PYR |
+| 17 | `config.py` | Configuration and constants | PYR |
+| 18 | `materials.py` | Material properties database | PYR |
+| 19 | `dashboard_utils.py` | Dashboard utilities | PYR |
+| 20 | `testing_engine.py` | Testing framework | PYR |
+| 21 | `__init__.py` | Package init | PYR |
+| 22 | `requirements.txt` | Python dependencies | PYR |
+| 23 | `tests/test_physics.py` | Physics unit tests | PYR |
+| 24 | `tests/__init__.py` | Tests package init | PYR |
+
+### pyramids/research/bayesian_docs/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 25 | `Omni_Specialist_Protocol.md` | Hierarchical Bayesian Framework — full academic paper | PYR |
+| 26 | `citations.md` | Annotated bibliography (Dunn, Petrie, Stocks, Monakhov) | PYR |
+
+### pyramids/research/deep_research_examples/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 27 | `Bayesian Data Audit_ Ancient Artifacts.md` | K-Factor forensic audit of Old Kingdom artifacts | PYR |
+| 28 | `Bayesian Validation of Lithic Circuit.md` | Omni-Specialist Protocol validation report | PYR |
+| 29 | `Lithic Circuit Support Infrastructure Investigation.md` | Dahshur-Abu Gorab-Giza triad (9.8 MW hypothesis) | PYR |
+| 30 | `Max_Zamilov_Pyramid_Engineering_Prompt.md` | Research extraction prompt for Max Zemlyanov | PYR |
+
+### pyramids/research/roundtable_reports/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 31 | `UnchartedX_PreDynastic_Engineering_Audit.md` | Forensic reconstruction of UnchartedX hypothesis | PYR |
+| 32 | `Labyrinth Manifold_ AI Research Prompt.md` | Hawara Labyrinth as hydraulic pulse regulator | PYR |
+| 33 | `LabyrinthManifold_Supplement.md` | Labyrinth Manifold supplemental report | PYR |
+
+### pyramids/transcripts/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 34 | `claude-transcript-nov24.txt` | Claude: Serapeum as Locally Resonant Phononic Crystal | PYR |
+| 35 | `Grok-transcript-Nov24.txt` | Grok: Extended pyramid engineering analysis | PYR |
+
+### pyramids/project_docs/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 36 | `PyramidCode_README.md` | Original project README | PYR |
+| 37 | `Module5_Prompt.md` | Module 5 (Global Network) engineering commission | PYR |
+| 38 | `AUDIT_REPORT.md` | Codebase integrity audit (Nov 2025) | PYR |
+| 39 | `TODO.md` | Development roadmap (Nexus Command, Omni-Viz) | PYR |
+| 40 | `taskmanagement_project_card.md` | TaskManagement project card | PYR |
+
+---
+
 *This index was rebuilt by the ML OS Meta Agent on 2026-02-06 after full repository reorganization.*
+*Updated 2026-02-07: Added pyramids/ directory (40 files — Lithic Circuit simulation, research, transcripts).*
 *Every file in the repository is catalogued above.*
 *For extraction recommendations, see sprint-artifacts/EXTRACTION_MANIFEST.md.*
