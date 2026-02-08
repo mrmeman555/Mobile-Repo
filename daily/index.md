@@ -14,6 +14,7 @@ This index tracks daily folders stored in `daily/`.
 - Run `python daily/update_index.py` to refresh this index (newest first).
 
 ## Entries (newest first)
+- 2026-02-07 - [2026-02-07](./2026-02-07/) - Massive ML OS architecture day: V1 kernel tested (6/6 pass), Context Architecture formalized, Savante deployed to Grok, 8 meta notes, Sprint_Workspace_Cleanup scaffolded, full IP-Lock.
 - 2026-01-21 - [2026-01-21](./2026-01-21/) - Daily note created.
 - 2026-01-20 - [2026-01-20](./2026-01-20/) - Daily note created.
 - 2026-01-19 - [2026-01-19](./2026-01-19/) - Daily note created.
