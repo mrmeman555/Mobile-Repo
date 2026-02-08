@@ -130,6 +130,7 @@ pyramids/
 
 | File | Platform | Date | Size | Content |
 |---|---|---|---|---|
+| `Transcript_Pyramid_Transcript.md` | Claude | Nov 23+ | 277K / 9511 lines | Full Claude pyramid session — Serapeum phononic crystal, Lithic Circuit analysis |
 | `claude-transcript-nov24.txt` | Claude | Nov 24 | ~762 lines | Serapeum as Phononic Crystal |
 | `Claude-PyramidTranscript-Nov26-25.md` | Claude | Nov 26 | 365K | Full pyramid analysis (extended) |
 | `GPT-Pyramid-Nov26-25.md` | GPT | Nov 26 | 227K | Pyramid engineering analysis |

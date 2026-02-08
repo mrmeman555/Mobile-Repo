@@ -2,7 +2,7 @@
 
 > **Last Updated:** 2026-02-07
 > **Repo:** `/home/aaron/Projects/Mobile-Repo/`
-> **Total Files:** 821
+> **Total Files:** 822
 > **Purpose:** Complete catalog of every file. Source of truth for all agent access.
 
 ---
@@ -16,7 +16,7 @@
 | `theory/` | 73 | Embedding-self model, belief systems, AI behavior, consciousness |
 | `psychology/` | 298 | Mechanisms, DP/DR, reconsolidation, regulation, scapegoating, bible |
 | `personal/` | 130 | Achievements, trajectory, context, suffering |
-| `pyramids/` | 77 | Lithic Circuit simulation code, Bayesian research, 18 agent reports, 5 AI transcripts, deep research examples, images |
+| `pyramids/` | 78 | Lithic Circuit simulation code, Bayesian research, 18 agent reports, 6 AI transcripts, deep research examples, images |
 | `projects/` | 7 | Path of Exile / YouTube strategy |
 | `legacy/` | 164 | Oldest content layer (Dec 25 – Jan 2) |
 | `sprint-artifacts/` | 6 | Repo analysis, agent prompts, extraction manifest |
@@ -1162,7 +1162,8 @@
 
 | # | File | Title | Cat |
 |---|---|---|---|
-| 52 | `claude-transcript-nov24.txt` | Claude: Serapeum as Locally Resonant Phononic Crystal (Nov 24) | PYR |
+| 52 | `Transcript_Pyramid_Transcript.md` | Claude: Full pyramid session — Serapeum phononic crystal + Lithic Circuit (Nov 23+, 277K) | PYR |
+| 53 | `claude-transcript-nov24.txt` | Claude: Serapeum as Locally Resonant Phononic Crystal (Nov 24) | PYR |
 | 53 | `Claude-PyramidTranscript-Nov26-25.md` | Claude: Full pyramid analysis (Nov 26, 365K) | PYR |
 | 54 | `GPT-Pyramid-Nov26-25.md` | GPT: Pyramid engineering analysis (Nov 26, 227K) | PYR |
 | 55 | `Gemini-PythonSim-Nov26-25.md` | Gemini: Simulation discussion (Nov 26, 47K) | PYR |
