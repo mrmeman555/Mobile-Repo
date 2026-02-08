@@ -1,8 +1,8 @@
 # MASTER FILE INDEX — Mobile Repo
 
-> **Last Updated:** 2026-02-07
+> **Last Updated:** 2026-02-08
 > **Repo:** `/home/aaron/Projects/Mobile-Repo/`
-> **Total Files:** 822
+> **Total Files:** 834
 > **Purpose:** Complete catalog of every file. Source of truth for all agent access.
 
 ---
@@ -11,7 +11,7 @@
 
 | Directory | Files | Primary Content |
 |---|---|---|
-| `architecture/` | 21 | ML OS precursors — kernel-module, embedding theory, transcripts, consolidation, nervous system |
+| `architecture/` | 33 | ML OS precursors, kernel-module, embedding theory, transcripts, consolidation, nervous system, context architecture, v1 kernel, meta notes (Feb 7-8) |
 | `methodology/` | 44 | ECE, CDRP, deep research, pipelines, protocols, research imports |
 | `theory/` | 73 | Embedding-self model, belief systems, AI behavior, consciousness |
 | `psychology/` | 298 | Mechanisms, DP/DR, reconsolidation, regulation, scapegoating, bible |
@@ -92,6 +92,42 @@
 |---|---|---|---|---|---|
 | 20 | `meaning-making-extraction-pipeline-process-note.md` | Process Overview: Formalized Meaning-Making Extraction Pipeline | ARCH | **CRITICAL** | 190 |
 | 21 | `significance-of-transcripts-embedding-based-model.md` | Significance of Transcripts in the Embedding-Based Self / Knowledge Model | ARCH | **CRITICAL** | 62 |
+
+
+### architecture/context-architecture/
+
+| # | File | Title | Cat | ML OS | Lines |
+|---|---|---|---|---|---|
+| 22 | `Context_Architecture_Principles.md` | Context Architecture — Systematic Discipline for Agent Cognition | ARCH | **CRITICAL** | ~400 |
+
+
+### architecture/v1-kernel/
+
+| # | File | Title | Cat | ML OS | Lines |
+|---|---|---|---|---|---|
+| 23 | `ml-os-kernel-v1.md` | ML OS V1 Kernel Rule (Cursor .mdc) | ARCH | **CRITICAL** | 174 |
+
+
+### architecture/ml-os-meta-2026-02-07/
+
+| # | File | Title | Cat | ML OS | Lines |
+|---|---|---|---|---|---|
+| 24 | `2026-02-07--forensic-analysis-v1-kernel-grounding-techniques.md` | Forensic Analysis — 14 Cognitive Grounding Techniques from V1 | ARCH | **CRITICAL** | ~200 |
+| 25 | `2026-02-07--compassion-as-actuator-second-prime-directive.md` | Compassion as Actuator — Second Prime Directive | ARCH | **HIGH** | ~150 |
+| 26 | `2026-02-07--cooperative-contract-user-architect-governance.md` | Cooperative Contract — User-Architect Governance Protocol | ARCH | **HIGH** | ~200 |
+| 27 | `2026-02-07--graph-databases-as-cognitive-extension-in-ml-os.md` | Graph Databases as Cognitive Extension in ML OS | ARCH | **CRITICAL** | ~250 |
+| 28 | `2026-02-07--symbolic-prompting-frameworks-consolidation-into-ml-os.md` | Symbolic Prompting Frameworks — Consolidation into ML OS | ARCH | **HIGH** | ~200 |
+| 29 | `2026-02-07--graph-db-resonance-integration-prototype.md` | Graph DB Resonance Integration Prototype | ARCH | **HIGH** | ~150 |
+| 30 | `2026-02-07--resonant-narratives-expansion-from-graph-paths.md` | Resonant Narratives — Expansion from Graph Paths | ARCH | **HIGH** | ~150 |
+| 31 | `2026-02-07--reflection-on-graph-prototype-implications.md` | Reflection on Graph Prototype — Symbolic Edges as Third Edge Type | ARCH | **CRITICAL** | ~150 |
+
+
+### architecture/ml-os-meta-2026-02-08/
+
+| # | File | Title | Cat | ML OS | Lines |
+|---|---|---|---|---|---|
+| 32 | `2026-02-08--ml-os-architecture-vision.md` | ML OS Architecture Vision — Database-First, Needs-as-Atoms, Round Table | ARCH | **CRITICAL** | 241 |
+| 33 | `2026-02-08--ml-os-database-schema-design.md` | ML OS Database Schema Design — 5 Core Tables, Compiled Views, Migration Path | ARCH | **CRITICAL** | 218 |
 
 ---
 
