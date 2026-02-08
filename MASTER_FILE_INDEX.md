@@ -2,7 +2,7 @@
 
 > **Last Updated:** 2026-02-07
 > **Repo:** `/home/aaron/Projects/Mobile-Repo/`
-> **Total Files:** 784
+> **Total Files:** 821
 > **Purpose:** Complete catalog of every file. Source of truth for all agent access.
 
 ---
@@ -16,7 +16,7 @@
 | `theory/` | 73 | Embedding-self model, belief systems, AI behavior, consciousness |
 | `psychology/` | 298 | Mechanisms, DP/DR, reconsolidation, regulation, scapegoating, bible |
 | `personal/` | 130 | Achievements, trajectory, context, suffering |
-| `pyramids/` | 40 | Lithic Circuit simulation code, Bayesian research papers, AI transcripts, deep research examples |
+| `pyramids/` | 77 | Lithic Circuit simulation code, Bayesian research, 18 agent reports, 5 AI transcripts, deep research examples, images |
 | `projects/` | 7 | Path of Exile / YouTube strategy |
 | `legacy/` | 164 | Oldest content layer (Dec 25 – Jan 2) |
 | `sprint-artifacts/` | 6 | Repo analysis, agent prompts, extraction manifest |
@@ -1135,22 +1135,55 @@
 | 32 | `Labyrinth Manifold_ AI Research Prompt.md` | Hawara Labyrinth as hydraulic pulse regulator | PYR |
 | 33 | `LabyrinthManifold_Supplement.md` | Labyrinth Manifold supplemental report | PYR |
 
+### pyramids/research/agent_reports/ (converted from .docx)
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 34 | `Analyzing Schumann Resonance Coupling in Stone.md` | Schumann resonance interaction with stone structures | PYR |
+| 35 | `Bayesian Analysis of Egyptian _Lithic Circuit_.md` | Bayesian analysis of the Lithic Circuit hypothesis | PYR |
+| 36 | `Bayesian Data Audit_ Ancient Artifacts.md` | K-Factor forensic audit (agent report version) | PYR |
+| 37 | `Bayesian Validation of Lithic Circuit.md` | Bayesian validation (agent report version) | PYR |
+| 38 | `Critiquing Ancient Acoustic Claims.md` | Critical assessment of acoustic anomaly claims | PYR |
+| 39 | `Forensic Analysis_ Lost Sarcophagus Insert.md` | Reconstruction of missing sarcophagus component | PYR |
+| 40 | `Forensic Analysis of King_s Chamber Coffer.md` | Engineering analysis of King's Chamber coffer | PYR |
+| 41 | `Forensic Coffer Insert Reconstruction Protocol.md` | Protocol for coffer insert reconstruction | PYR |
+| 42 | `Geomagnetic Anomalies and Megalithic Sites.md` | Geomagnetic field correlation with megalithic sites | PYR |
+| 43 | `Giza Subterranean Infrastructure Investigation.md` | Underground structures at Giza | PYR |
+| 44 | `Hawara Hydro-Processor Technical Assessment.md` | Hawara as hydraulic processor | PYR |
+| 45 | `King_s Chamber Coffer Dimple Research Pack.md` | Surface anomalies on the King's Chamber coffer | PYR |
+| 46 | `Labyrinth Manifold_ AI Research Prompt.md` | Labyrinth manifold (agent report version) | PYR |
+| 47 | `Lithic Circuit_ Ancient Egyptian Engineering.md` | Overview of the Lithic Circuit engineering hypothesis | PYR |
+| 48 | `Lithic Circuit Support Infrastructure Investigation.md` | Infrastructure investigation (agent report version) | PYR |
+| 49 | `Metamaterial Seismic Damping Analysis.md` | Metamaterial properties in stone structures | PYR |
+| 50 | `Piezoelectric Stone Degradation Analysis.md` | Piezoelectric property degradation over time | PYR |
+| 51 | `Serapeum Box Insert Forensics.md` | Serapeum sarcophagi insert mechanisms | PYR |
+
 ### pyramids/transcripts/
 
 | # | File | Title | Cat |
 |---|---|---|---|
-| 34 | `claude-transcript-nov24.txt` | Claude: Serapeum as Locally Resonant Phononic Crystal | PYR |
-| 35 | `Grok-transcript-Nov24.txt` | Grok: Extended pyramid engineering analysis | PYR |
+| 52 | `claude-transcript-nov24.txt` | Claude: Serapeum as Locally Resonant Phononic Crystal (Nov 24) | PYR |
+| 53 | `Claude-PyramidTranscript-Nov26-25.md` | Claude: Full pyramid analysis (Nov 26, 365K) | PYR |
+| 54 | `GPT-Pyramid-Nov26-25.md` | GPT: Pyramid engineering analysis (Nov 26, 227K) | PYR |
+| 55 | `Gemini-PythonSim-Nov26-25.md` | Gemini: Simulation discussion (Nov 26, 47K) | PYR |
+| 56 | `Grok-transcript-Nov24.txt` | Grok: Extended pyramid engineering analysis (Nov 24) | PYR |
+
+### pyramids/images/
+
+| # | File | Title | Cat |
+|---|---|---|---|
+| 57 | `Lithic_Circuit_Master_Archive.png` | Master circuit diagram | PYR |
+| 58–72 | `Screenshot_20251130_*.jpg` (×15) | ChatGPT session screenshots (Nov 30 2025) | PYR |
 
 ### pyramids/project_docs/
 
 | # | File | Title | Cat |
 |---|---|---|---|
-| 36 | `PyramidCode_README.md` | Original project README | PYR |
-| 37 | `Module5_Prompt.md` | Module 5 (Global Network) engineering commission | PYR |
-| 38 | `AUDIT_REPORT.md` | Codebase integrity audit (Nov 2025) | PYR |
-| 39 | `TODO.md` | Development roadmap (Nexus Command, Omni-Viz) | PYR |
-| 40 | `taskmanagement_project_card.md` | TaskManagement project card | PYR |
+| 73 | `PyramidCode_README.md` | Original project README | PYR |
+| 74 | `Module5_Prompt.md` | Module 5 (Global Network) engineering commission | PYR |
+| 75 | `AUDIT_REPORT.md` | Codebase integrity audit (Nov 2025) | PYR |
+| 76 | `TODO.md` | Development roadmap (Nexus Command, Omni-Viz) | PYR |
+| 77 | `taskmanagement_project_card.md` | TaskManagement project card | PYR |
 
 ---
 
