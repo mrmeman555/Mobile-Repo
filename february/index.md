@@ -12,3 +12,5 @@ This index tracks notes stored in `february/`.
   - Optional tags
 
 ## Entries (newest first)
+
+- 2026-02-13 — [Strategy: Strategic Indexing for IT Re-entry](./2026-02-13--strategic-indexing-it-reentry.md) — Shift from anxiety-driven encyclopedic learning to strategic indexing: conversational familiarity for interviews, deep dives on foundational topics, and just-in-time compilation for job-specific implementation. (Tags: strategy, IT, learning, anxiety, indexing)
